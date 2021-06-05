@@ -1,21 +1,21 @@
 {"emisoras" :[
-            {
-            "id"            :1,
-            "nombre"        :"Radio Transmundial",
-            "thumbnail"     :"",
-            "descripcion"   :"",
-            "cartelera"     :"",
-            "url"           :"http://192.168.43.73/emisoras/song.mp3",
-            "url_full"      :"http://192.168.43.73/emisoras/song1.mp3"
-            },
-            {
-            "id"            :2,
-            "nombre"        :"Radio Nueva Vida",
-            "thumbnail"     :"",
-            "descripcion"   :"",
-            "cartelera"     :"",
-            "url"           :"http://192.168.43.73/emisoras/song1.mp3",
-            "url_full"      :"http://192.168.43.73/emisoras/song.mp3"
-            }
-        ]
+    {
+    "id"            :1,
+    "nombre"        :"Radio Transmundial",
+    "thumbnail"     :"",
+    "descripcion"   :"",
+    "cartelera"     :"",
+    "url"           :"http://cancuserver1.ddns.net:8000/rtm",
+    "url_full"      :"http://cancuserver1.ddns.net:8000/avr"
+    },
+    {
+    "id"            :2,
+    "nombre"        :"Radio Nueva Vida",
+    "thumbnail"     :"",
+    "descripcion"   :"",
+    "cartelera"     :"",
+    "url"           :"http://cancuserver1.ddns.net:8000/avr",
+    "url_full"      :"http://cancuserver1.ddns.net:8000/rtm"
+    }
+]
 }
