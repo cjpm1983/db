@@ -5,8 +5,8 @@
     "thumbnail"     :"",
     "descripcion"   :"",
     "cartelera"     :"",
-    "consumoHora"   :20,
     "url"           :"http://cancuserver1.ddns.net:8000/rtm",
+    "url_m"         :"http://cancuserver1.ddns.net:8000/rtmmq",
     "url_full"      :"http://cancuserver1.ddns.net:8000/rtmmq"
     },
     {
@@ -15,9 +15,19 @@
     "thumbnail"     :"",
     "descripcion"   :"",
     "cartelera"     :"",
-    "consumoHora"   :20,
     "url"           :"http://cancuserver1.ddns.net:8000/avr",
+    "url_m"         :"http://cancuserver1.ddns.net:8000/avrmq",
     "url_full"      :"http://cancuserver1.ddns.net:8000/avrmq"
+    },
+    {
+    "id"            :3,
+    "nombre"        :"Radio Moody",
+    "thumbnail"     :"",
+    "descripcion"   :"",
+    "cartelera"     :"",
+    "url"           :"http://cancuserver1.ddns.net:8000/moodyradio",
+    "url_m"         :"http://cancuserver1.ddns.net:8000/moodyradiomq",
+    "url_full"      :"http://cancuserver1.ddns.net:8000/moodyradiomq"
     }
 ]
 }
