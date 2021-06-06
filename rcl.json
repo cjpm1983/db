@@ -5,8 +5,9 @@
     "thumbnail"     :"",
     "descripcion"   :"",
     "cartelera"     :"",
-    "url"           :"http://cancuserver1.ddns.net:8000/rtm",
-    "url_full"      :"http://cancuserver1.ddns.net:8000/avr"
+    "consumoHora"   :20,
+    "url"           :"http://cancuserver1.ddns.net:8000/rtmmq",
+    "url_full"      :"http://cancuserver1.ddns.net:8000/rtm"
     },
     {
     "id"            :2,
@@ -14,8 +15,9 @@
     "thumbnail"     :"",
     "descripcion"   :"",
     "cartelera"     :"",
-    "url"           :"http://cancuserver1.ddns.net:8000/avr",
-    "url_full"      :"http://cancuserver1.ddns.net:8000/rtm"
+    "consumoHora"   :20,
+    "url"           :"http://cancuserver1.ddns.net:8000/avrmq",
+    "url_full"      :"http://cancuserver1.ddns.net:8000/avr"
     }
 ]
 }

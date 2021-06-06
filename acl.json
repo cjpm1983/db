@@ -5,6 +5,7 @@
             "thumbnail"     :"",
             "descripcion"   :"",
             "cartelera"     :"",
+            "consumoHora"   :20,
             "url"           :"http://192.168.43.73/emisoras/song.mp3",
             "url_full"      :"http://192.168.43.73/emisoras/song1.mp3"
             },
@@ -14,6 +15,7 @@
             "thumbnail"     :"",
             "descripcion"   :"",
             "cartelera"     :"",
+            "consumoHora"   :20,
             "url"           :"http://192.168.43.73/emisoras/song1.mp3",
             "url_full"      :"http://192.168.43.73/emisoras/song.mp3"
             }
