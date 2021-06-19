@@ -1,4 +1,5 @@
-{"emisoras" :[
+{"aviso" :{"tipo":"normal","mensaje":"Dios le bendiga, esto es una prueba de aviso para tenerle al tanto de cambios y actualizaciones que puedan presentarse."},
+"emisoras" :[
     {
     "id"            :1,
     "nombre"        :"Radio Transmundial",
