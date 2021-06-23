@@ -37,18 +37,5 @@
             "url_n": "http://cancuserver1.ddns.net:8000/moodyradiohq",
             "url_full": "http://cancuserver1.ddns.net:8000/moodyradiohq"
         }
-    ],
-    "podcasts": [
-        {
-            "id": 1,
-            "podcast": "Iglesia Buenas Nuevas Encrucijada",
-            "descripcion": "Mensajes predicados en Iglesia Buenas Nuevas Encrucijada",
-            "capitulos": [
-                {
-                    "titulo": "dfg",
-                    "por": "Pastor Jorge F. Exposito",
-                    "arte": "dfgdf"}
-            ]
-        }
     ]
 }

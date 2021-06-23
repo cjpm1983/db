@@ -1,0 +1,44 @@
+{
+    "aviso": {
+        "tipo": "normal",
+        "mensaje": ""
+    },
+    "podcasts": [
+        {
+            "id": 1,
+            "podcast": "Iglesia Buenas Nuevas Encrucijada",
+            "descripcion": "Mensajes predicados en Iglesia Buenas Nuevas Encrucijada",
+            "arte":"https://github.com/cjpm1983/db/blob/main/podcasts/images/logo.jpg",
+            "capitulos": [
+                {
+                    "id":1,
+                    "fecha":"",
+                    "titulo": "No descuides tu viña",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "https://github.com/cjpm1983/db/blob/main/podcasts/images/logo.jpg",
+                    "url": "https://github.com/cjpm1983/db/blob/main/podcasts/no_descuides_tu_vinia.mp3",
+                    "size": 3
+                },
+                {
+                    "id":2,
+                    "fecha":"",
+                    "titulo": "Vida fructífera",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "https://github.com/cjpm1983/db/blob/main/podcasts/images/logo.jpg",
+                    "url": "https://github.com/cjpm1983/db/blob/main/podcasts/vida_fructifera.mp3",
+                    "size": 7
+                },
+                {
+                    "id":3,
+                    "fecha":"",
+                    "titulo": "Los obstáculos de la vida cristiana",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "https://github.com/cjpm1983/db/blob/main/podcasts/images/logo.jpg",
+                    "url": "https://github.com/cjpm1983/db/blob/main/podcasts/los_obstaculos_de_la_vida_cristiana.mp3",
+                    "size": 0.5
+                }
+                
+            ]
+        }
+    ]
+}
