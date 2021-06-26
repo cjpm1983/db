@@ -8,7 +8,7 @@
             "id": 1,
             "podcast": "Iglesia Buenas Nuevas Encrucijada",
             "descripcion": "Mensajes predicados en Iglesia Buenas Nuevas Encrucijada",
-            "arte":"http://igbn.cubava.cu/files/2021/06/logo.jpg",
+            "arte":"https://raw.githubusercontent.com/cjpm1983/db/60bd886c40ebea465510fd7653138fab18d4e652/podcasts/images/logo.jpg",
             "capitulos": [
                 {
                     "id":1,
@@ -16,8 +16,8 @@
                     "titulo": "Los obstáculos de la vida cristiana",
                     "informacion": "Tema vida cristiana",
                     "por": "Pastor Jorge F. Exposito",
-                    "arte": "http://igbn.cubava.cu/files/2021/06/logo.jpg",
-                    "url": "http://igbn.cubava.cu/files/2021/06/los_obstaculos_de_la_vida_cristiana.mp3",
+                    "arte": "https://raw.githubusercontent.com/cjpm1983/db/60bd886c40ebea465510fd7653138fab18d4e652/podcasts/images/logo.jpg",
+                    "url": "https://raw.githubusercontent.com/cjpm1983/db/60bd886c40ebea465510fd7653138fab18d4e652/podcasts/los_obstaculos_de_la_vida_cristiana.mp3",
                     "size": 0.5
                 },
                 {
@@ -26,8 +26,8 @@
                     "titulo": "Vida fructífera",
                     "informacion": "Tema vida cristiana",
                     "por": "Pastor Jorge F. Exposito",
-                    "arte": "http://igbn.cubava.cu/files/2021/06/logo.jpg",
-                    "url": "http://igbn.cubava.cu/files/2021/06/vida_fructifera.mp3",
+                    "arte": "https://raw.githubusercontent.com/cjpm1983/db/60bd886c40ebea465510fd7653138fab18d4e652/podcasts/images/logo.jpg",
+                    "url": "https://raw.githubusercontent.com/cjpm1983/db/60bd886c40ebea465510fd7653138fab18d4e652/podcasts/vida_fructifera.mp3",
                     "size": 7.0
                 },
                 {
@@ -36,8 +36,8 @@
                     "titulo": "No descuides tu viña",
                     "informacion": "Tema familia",
                     "por": "Pastor Jorge F. Exposito",
-                    "arte": "http://igbn.cubava.cu/files/2021/06/logo.jpg",
-                    "url": "http://igbn.cubava.cu/files/2021/06/no_descuides_tu_vinia.mp3",
+                    "arte": "https://raw.githubusercontent.com/cjpm1983/db/60bd886c40ebea465510fd7653138fab18d4e652/podcasts/images/logo.jpg",
+                    "url": "https://raw.githubusercontent.com/cjpm1983/db/60bd886c40ebea465510fd7653138fab18d4e652/podcasts/no_descuides_tu_vinia.mp3",
                     "size": 3.0
                 }
                 
