@@ -18,7 +18,7 @@
                     "por": "Pastor Jorge F. Exposito",
                     "arte": "http://igbn.cubava.cu/files/2021/06/logo.jpg",
                     "url": "http://igbn.cubava.cu/files/2021/06/los_obstaculos_de_la_vida_cristiana.mp3",
-                    "size": 0.5
+                    "size": 1.5
                 },
                 {
                     "id": 2,
@@ -28,7 +28,7 @@
                     "por": "Pastor Jorge F. Exposito",
                     "arte": "http://igbn.cubava.cu/files/2021/06/logo.jpg",
                     "url": "http://igbn.cubava.cu/files/2021/06/vida_fructifera.mp3",
-                    "size": 7.0
+                    "size": 1.9
                 },
                 {
                     "id": 3,
@@ -38,11 +38,10 @@
                     "por": "Pastor Jorge F. Exposito",
                     "arte": "http://igbn.cubava.cu/files/2021/06/logo.jpg",
                     "url": "http://igbn.cubava.cu/files/2021/06/no_descuides_tu_vinia.mp3",
-                    "size": 3.0
+                    "size": 1.7
                 }
             ]
         },
-        ,
         {
             "id": 2,
             "podcast": "ABCdario del hogar y la familia",
@@ -181,3 +180,6 @@
                 }
             ]
         }
+
+    ]
+}
