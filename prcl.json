@@ -8,11 +8,11 @@
             "id": 1,
             "podcast": "Iglesia Buenas Nuevas Encrucijada",
             "descripcion": "Mensajes predicados en Iglesia Buenas Nuevas Encrucijada",
-            "arte":"http://igbn.cubava.cu/files/2021/06/logo.jpg",
+            "arte": "http://igbn.cubava.cu/files/2021/06/logo.jpg",
             "capitulos": [
                 {
-                    "id":1,
-                    "fecha":"",
+                    "id": 1,
+                    "fecha": "",
                     "titulo": "Los obstáculos de la vida cristiana",
                     "informacion": "Tema vida cristiana",
                     "por": "Pastor Jorge F. Exposito",
@@ -21,8 +21,8 @@
                     "size": 0.5
                 },
                 {
-                    "id":2,
-                    "fecha":"",
+                    "id": 2,
+                    "fecha": "",
                     "titulo": "Vida fructífera",
                     "informacion": "Tema vida cristiana",
                     "por": "Pastor Jorge F. Exposito",
@@ -31,8 +31,8 @@
                     "size": 7.0
                 },
                 {
-                    "id":3,
-                    "fecha":"",
+                    "id": 3,
+                    "fecha": "",
                     "titulo": "No descuides tu viña",
                     "informacion": "Tema familia",
                     "por": "Pastor Jorge F. Exposito",
@@ -40,9 +40,144 @@
                     "url": "http://igbn.cubava.cu/files/2021/06/no_descuides_tu_vinia.mp3",
                     "size": 3.0
                 }
-                
+            ]
+        },
+        ,
+        {
+            "id": 2,
+            "podcast": "ABCdario del hogar y la familia",
+            "descripcion": "30 dias para bendecir el hogar y la familia",
+            "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/amabilidad.jpg",
+            "capitulos": [
+                {
+                    "id": 1,
+                    "fecha": "",
+                    "titulo": "Amabilidad",
+                    "informacion": "Un modo de vida, la amabilidad",
+                    "por": "Noriel Morales",
+                    "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/amabilidad.jpg",
+                    "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Amabilidad.mp3",
+                    "size": 3.0
+                },
+                {
+                    "id": 2,
+                    "fecha": "",
+                    "titulo": "Biblia",
+                    "informacion": "Un fundamento sólido",
+                    "por": "Noriel Morales",
+                    "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/2.jpg",
+                    "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Biblia.mp3",
+                    "size": 7.0
+                },
+                {
+                    "id": 3,
+                    "fecha": "",
+                    "titulo": "Confianza",
+                    "informacion": "Depositar tu confianza solo en Dios",
+                    "por": "Noriel Morales",
+                    "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/3.jpg",
+                    "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Confianza.mp3",
+                    "size": 7.0
+                },
+                {
+                    "id": 4,
+                    "fecha": "",
+                    "titulo": "Diligencia",
+                    "informacion": "No seamos perezosos",
+                    "por": "Noriel Morales",
+                    "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/4.jpg",
+                    "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Diligencia.mp3",
+                    "size": 7.0
+                },
+                {
+                    "id": 5,
+                    "fecha": "",
+                    "titulo": "Excelencia",
+                    "informacion": "Todo sea hecho con amor",
+                    "por": "Noriel Morales",
+                    "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/5.jpg",
+                    "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Excelencia.mp3",
+                    "size": 7.0
+                },
+                {
+                    "id": 6,
+                    "fecha": "",
+                    "titulo": "Fidelidad",
+                    "informacion": "Él permanece fiel",
+                    "por": "Noriel Morales",
+                    "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/6.jpg",
+                    "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Fidelidad.mp3",
+                    "size": 7.0
+                },
+                {
+                    "id": 7,
+                    "fecha": "",
+                    "titulo": "Generosidad",
+                    "informacion": "Practiquemos la generosidad siempre",
+                    "por": "Noriel Morales",
+                    "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/salmos-e1624634296265.jpg",
+                    "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Generosidad.mp3",
+                    "size": 7.0
+                },
+                {
+                    "id": 8,
+                    "fecha": "",
+                    "titulo": "Humildad",
+                    "informacion": "Seamos humildes",
+                    "por": "Noriel Morales",
+                    "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/salmos-e1624634296265.jpg",
+                    "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Humildad.mp3",
+                    "size": 7.0
+                },
+                {
+                    "id": 9,
+                    "fecha": "",
+                    "titulo": "Integridad",
+                    "informacion": "Vivamos íntegramente",
+                    "por": "Noriel Morales",
+                    "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/salmos-e1624634296265.jpg",
+                    "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Integridad.mp3",
+                    "size": 7.0
+                },
+                {
+                    "id": 10,
+                    "fecha": "",
+                    "titulo": "Jesucristo",
+                    "informacion": "Motivo para vivir: Jesucristo",
+                    "por": "Noriel Morales",
+                    "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/salmos-e1624634296265.jpg",
+                    "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Jesucristo.mp3",
+                    "size": 7.0
+                },
+                {
+                    "id": 11,
+                    "fecha": "",
+                    "titulo": "Lealtad",
+                    "informacion": "Leales al Rey de reyes",
+                    "por": "Noriel Morales",
+                    "arte": "lhttp://ibalavozdefe.cubava.cu/files/2021/04/salmos-e1624634296265.jpg",
+                    "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Lealtad.mp3",
+                    "size": 7.0
+                },
+                {
+                    "id": 12,
+                    "fecha": "",
+                    "titulo": "Misericordia",
+                    "informacion": "Practiquemos la misericordia",
+                    "por": "Noriel Morales",
+                    "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/salmos-e1624634296265.jpg",
+                    "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Misericordia.mp3",
+                    "size": 7.0
+                },
+                {
+                    "id": 14,
+                    "fecha": "",
+                    "titulo": "Nacionalidad",
+                    "informacion": "Ciudadanos del cielo",
+                    "por": "Noriel Morales",
+                    "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/salmos-e1624634296265.jpg",
+                    "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Misericordia.mp3",
+                    "size": 7.0
+                }
             ]
         }
-        
-    ]
-}
