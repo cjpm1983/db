@@ -56,7 +56,7 @@
                     "por": "Noriel Morales",
                     "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/amabilidad.jpg",
                     "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Amabilidad.mp3",
-                    "size": 3.0
+                    "size": 0.6
                 },
                 {
                     "id": 2,
@@ -66,7 +66,7 @@
                     "por": "Noriel Morales",
                     "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/2.jpg",
                     "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Biblia.mp3",
-                    "size": 2.0
+                    "size": 0.6
                 },
                 {
                     "id": 3,
@@ -76,7 +76,7 @@
                     "por": "Noriel Morales",
                     "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/3.jpg",
                     "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Confianza.mp3",
-                    "size": 2.0
+                    "size": 0.7
                 },
                 {
                     "id": 4,
@@ -86,7 +86,7 @@
                     "por": "Noriel Morales",
                     "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/4.jpg",
                     "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Diligencia.mp3",
-                    "size": 2.0
+                    "size": 0.5
                 },
                 {
                     "id": 5,
@@ -96,7 +96,7 @@
                     "por": "Noriel Morales",
                     "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/5.jpg",
                     "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Excelencia.mp3",
-                    "size": 2.0
+                    "size": 1.8
                 },
                 {
                     "id": 6,
@@ -106,7 +106,7 @@
                     "por": "Noriel Morales",
                     "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/6.jpg",
                     "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Fidelidad.mp3",
-                    "size": 2.0
+                    "size": 0.7
                 },
                 {
                     "id": 7,
@@ -116,7 +116,7 @@
                     "por": "Noriel Morales",
                     "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/salmos-e1624634296265.jpg",
                     "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Generosidad.mp3",
-                    "size": 2.0
+                    "size": 0.7
                 },
                 {
                     "id": 8,
@@ -126,7 +126,7 @@
                     "por": "Noriel Morales",
                     "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/salmos-e1624634296265.jpg",
                     "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Humildad.mp3",
-                    "size": 2.0
+                    "size": 0.7
                 },
                 {
                     "id": 9,
@@ -136,7 +136,7 @@
                     "por": "Noriel Morales",
                     "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/salmos-e1624634296265.jpg",
                     "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Integridad.mp3",
-                    "size": 2.0
+                    "size": 0.7
                 },
                 {
                     "id": 10,
@@ -146,7 +146,7 @@
                     "por": "Noriel Morales",
                     "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/salmos-e1624634296265.jpg",
                     "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Jesucristo.mp3",
-                    "size": 2.0
+                    "size": 0.7
                 },
                 {
                     "id": 11,
@@ -156,7 +156,7 @@
                     "por": "Noriel Morales",
                     "arte": "lhttp://ibalavozdefe.cubava.cu/files/2021/04/salmos-e1624634296265.jpg",
                     "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Lealtad.mp3",
-                    "size": 2.0
+                    "size": 1.8
                 },
                 {
                     "id": 12,
@@ -166,17 +166,17 @@
                     "por": "Noriel Morales",
                     "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/salmos-e1624634296265.jpg",
                     "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Misericordia.mp3",
-                    "size": 2.0
+                    "size": 1.8
                 },
                 {
-                    "id": 14,
+                    "id": 13,
                     "fecha": "",
                     "titulo": "Nacionalidad",
                     "informacion": "Ciudadanos del cielo",
                     "por": "Noriel Morales",
                     "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/salmos-e1624634296265.jpg",
-                    "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Misericordia.mp3",
-                    "size": 2.0
+                    "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Nacionalidad.mp3",
+                    "size": 1.8
                 }
             ]
         },
