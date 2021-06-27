@@ -39,7 +39,28 @@
                     "arte": "http://igbn.cubava.cu/files/2021/06/logo.jpg",
                     "url": "http://igbn.cubava.cu/files/2021/06/no_descuides_tu_vinia.mp3",
                     "size": 1.7
+                },
+                {
+                    "id": 3,
+                    "fecha": "",
+                    "titulo": "No vendas tu herencia",
+                    "informacion": "Mi viña no está en venta",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://igbn.cubava.cu/files/2021/06/logo.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/06/No_vendas_tu_herencia_mi_vina_no_esta_en_venta.mp3",
+                    "size": 1.7
+                },
+                {
+                    "id": 3,
+                    "fecha": "",
+                    "titulo": "Dios tiene la última Palabra",
+                    "informacion": "Confianza en Dios",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://igbn.cubava.cu/files/2021/06/logo.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/06/Dios_tiene_la_ultima_palabra.mp3",
+                    "size": 1.9
                 }
+                
             ]
         },
         {
