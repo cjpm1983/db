@@ -41,7 +41,7 @@
                     "size": 1.7
                 },
                 {
-                    "id": 3,
+                    "id": 4,
                     "fecha": "",
                     "titulo": "No vendas tu herencia",
                     "informacion": "Mi viña no está en venta",
@@ -51,7 +51,7 @@
                     "size": 1.7
                 },
                 {
-                    "id": 3,
+                    "id": 5,
                     "fecha": "",
                     "titulo": "Dios tiene la última Palabra",
                     "informacion": "Confianza en Dios",
@@ -135,7 +135,7 @@
                     "titulo": "Generosidad",
                     "informacion": "Practiquemos la generosidad siempre",
                     "por": "Noriel Morales",
-                    "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/salmos-e1624634296265.jpg",
+                    "arte": "",
                     "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Generosidad.mp3",
                     "size": 0.7
                 },
@@ -145,7 +145,7 @@
                     "titulo": "Humildad",
                     "informacion": "Seamos humildes",
                     "por": "Noriel Morales",
-                    "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/salmos-e1624634296265.jpg",
+                    "arte": "",
                     "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Humildad.mp3",
                     "size": 0.7
                 },
@@ -155,7 +155,7 @@
                     "titulo": "Integridad",
                     "informacion": "Vivamos íntegramente",
                     "por": "Noriel Morales",
-                    "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/salmos-e1624634296265.jpg",
+                    "arte": "",
                     "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Integridad.mp3",
                     "size": 0.7
                 },
@@ -165,7 +165,7 @@
                     "titulo": "Jesucristo",
                     "informacion": "Motivo para vivir: Jesucristo",
                     "por": "Noriel Morales",
-                    "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/salmos-e1624634296265.jpg",
+                    "arte": "",
                     "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Jesucristo.mp3",
                     "size": 0.7
                 },
@@ -175,7 +175,7 @@
                     "titulo": "Lealtad",
                     "informacion": "Leales al Rey de reyes",
                     "por": "Noriel Morales",
-                    "arte": "lhttp://ibalavozdefe.cubava.cu/files/2021/04/salmos-e1624634296265.jpg",
+                    "arte": "l",
                     "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Lealtad.mp3",
                     "size": 1.8
                 },
@@ -185,7 +185,7 @@
                     "titulo": "Misericordia",
                     "informacion": "Practiquemos la misericordia",
                     "por": "Noriel Morales",
-                    "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/salmos-e1624634296265.jpg",
+                    "arte": "",
                     "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Misericordia.mp3",
                     "size": 1.8
                 }
@@ -209,16 +209,6 @@
                 },
                 {
                     "id": 2,
-                    "fecha": "",
-                    "titulo": "Enmudecimiento melancólico",
-                    "informacion": "",
-                    "por": "Felix Morales",
-                    "arte": "http://igbn.cubava.cu/files/2021/06/logofelix.jpg",
-                    "url": "http://igbn.cubava.cu/files/2021/06/enmudecimiento_melancolico.mp3",
-                    "size": 1.4
-                },
-                {
-                    "id": 3,
                     "fecha": "",
                     "titulo": "Promesas cuando se multiplican las aflixiones",
                     "informacion": "",
