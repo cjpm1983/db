@@ -203,7 +203,7 @@
                     "titulo": "El resultado del gozo del creyente",
                     "informacion": "",
                     "por": "Felix Morales",
-                    "arte": "http://igbn.cubava.cu/files/2021/06/logofelix.jpg",
+                    "arte": "",
                     "url": "http://igbn.cubava.cu/files/2021/06/el_resultado_del_gozo_del_creyente.mp3",
                     "size": 1.8
                 },
@@ -213,9 +213,29 @@
                     "titulo": "Promesas cuando se multiplican las aflixiones",
                     "informacion": "",
                     "por": "Felix Morales",
-                    "arte": "http://igbn.cubava.cu/files/2021/06/logofelix.jpg",
+                    "arte": "",
                     "url": "http://igbn.cubava.cu/files/2021/06/promesas_cuando_se_multiplican_las_aflicciones.mp3",
                     "size": 1.0
+                },
+                {
+                    "id": 3,
+                    "fecha": "",
+                    "titulo": "Morir sin salvación",
+                    "informacion": "",
+                    "por": "Felix Morales",
+                    "arte": "",
+                    "url": "http://igbn.cubava.cu/files/2021/06/morir_sin_salvacion.mp3",
+                    "size": 0.5
+                },
+                {
+                    "id": 4,
+                    "fecha": "",
+                    "titulo": "Verdadera Felicidad",
+                    "informacion": "",
+                    "por": "Felix Morales",
+                    "arte": "",
+                    "url": "http://igbn.cubava.cu/files/2021/06/verdadera_felicidad.mp3",
+                    "size": 0.6
                 }
             ]
         }
