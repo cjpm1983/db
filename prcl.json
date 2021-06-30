@@ -1,7 +1,7 @@
 {
     "aviso": {
         "tipo": "normal",
-        "mensaje": "Esta funcionalidad está en desarrollo, por favor, perdone cualquier fallo. Le agradeceremos sus comentarios. Los audios han sido reducidos para mantener la filosofía de ahorro de esta aplicación."
+        "mensaje": "Esta funcionalidad está en desarrollo, por favor, perdone cualquier fallo. Le agradeceremos sus comentarios. Los audios han sido reducidos para mantener la filosofía de ahorro de esta aplicación. Los podcast consumen solo navegacion nacional"
     },
     "podcasts": [
         {
