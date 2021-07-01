@@ -276,17 +276,7 @@
                     "size": 2.0
                 },
 				{
-                    "id": 4,
-                    "fecha": "",
-                    "titulo": "Descanso junto a El",
-                    "informacion": "Confianza en el Señor.",
-                    "por": "Pastor Otoniel Guevara",
-                    "arte": "http://manantialdevida.cubava.cu/files/2021/07/logomanantiales.jpg",
-                    "url": "http://manantialdevida.cubava.cu/files/2021/06/03venydescansa.mp3",
-                    "size": 2.0
-                },
-				{
-                    "id": 5,
+                    "id": 54,
                     "fecha": "",
                     "titulo": "¿Quién gobierna tu vida?",
                     "informacion": "¿Los que desea mi corazón es bueno o malo?",
@@ -296,7 +286,7 @@
                     "size": 0.9
                 },
 				{
-                    "id": 6,
+                    "id": 5,
                     "fecha": "",
                     "titulo": "Firmes en la adversidad",
                     "informacion": "Consejos para enfrentar las tormentas de la vida.",
