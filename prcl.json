@@ -1,7 +1,7 @@
 {
     "aviso": {
         "tipo": "normal",
-        "mensaje": ""
+        "mensaje": " "
     },
     "podcasts": [
         {
@@ -59,6 +59,16 @@
                     "arte": "http://igbn.cubava.cu/files/2021/06/logo.jpg",
                     "url": "http://igbn.cubava.cu/files/2021/06/Dios_tiene_la_ultima_palabra.mp3",
                     "size": 1.9
+                },
+                {
+                    "id": 6,
+                    "fecha": "4 Julio 2021",
+                    "titulo": "Por que atravesamos desiertos",
+                    "informacion": "Las pruebas son una oportunidad para el fortalecimiento del caracter cristiano",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://igbn.cubava.cu/files/2021/06/logo.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/07/Por_que_atravesamos_desiertos.mp3",
+                    "size": 1.7
                 }
                 
             ]
