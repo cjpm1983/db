@@ -36,6 +36,17 @@
             "url_m": "http://cancuserver1.ddns.net:8000/moodyradiomq",
             "url_n": "http://cancuserver1.ddns.net:8000/moodyradiohq",
             "url_full": "http://cancuserver1.ddns.net:8000/moodyradiohq"
+        },
+        {
+            "id": 4,
+            "nombre": "KGBAFM",
+            "thumbnail": "",
+            "descripcion": "",
+            "cartelera": "",
+            "url": "http://cancuserver1.ddns.net:8000/KGBAFM",
+            "url_m": "http://cancuserver1.ddns.net:8000/KGBAFMmq",
+            "url_n": "http://cancuserver1.ddns.net:8000/KGBAFMmq",
+            "url_full": "http://cancuserver1.ddns.net:8000/KGBAFMmq"
         }
     ]
 }
