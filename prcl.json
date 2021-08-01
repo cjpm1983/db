@@ -69,6 +69,36 @@
                     "arte": "http://igbn.cubava.cu/files/2021/06/logo.jpg",
                     "url": "http://igbn.cubava.cu/files/2021/07/Por_que_atravesamos_desiertos.mp3",
                     "size": 1.7
+                },
+                {
+                    "id": 7,
+                    "fecha": "18 Julio 2021",
+                    "titulo": "Necesitamos un Encuentro Con Dios",
+                    "informacion": "Dios es todo lo que necesitamos.",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://igbn.cubava.cu/files/2021/06/logo.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/08/Necesitamos-un-Encuentro-Con-Dios.mp3",
+                    "size": 1.6
+                },
+                {
+                    "id": 8,
+                    "fecha": "25 Julio 2021",
+                    "titulo": "Dios tiene una salida inesperada",
+                    "informacion": "Cuando todo parece perdido, Dios sigue sentado en su trono",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://igbn.cubava.cu/files/2021/06/logo.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/08/Dios_tiene_una_salida_inesperada.mp3",
+                    "size": 1.
+                },
+                {
+                    "id": 9,
+                    "fecha": "1 Agosto 2021",
+                    "titulo": "Desanimo, un arma de satanas",
+                    "informacion": "La experiencia del profeta Elias y su restauracion por la misericordia de Dios",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://igbn.cubava.cu/files/2021/06/logo.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/08/Desanimo_un_arma_de_satanas.mp3",
+                    "size": 1.3
                 }
                 
             ]
