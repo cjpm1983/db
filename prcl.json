@@ -99,6 +99,16 @@
                     "arte": "http://igbn.cubava.cu/files/2021/06/logo.jpg",
                     "url": "http://igbn.cubava.cu/files/2021/08/Desanimo_un_arma_de_satanas.mp3",
                     "size": 1.3
+                },
+                {
+                    "id": 10,
+                    "fecha": "8 Agosto 2021",
+                    "titulo": "Tomando un nuevo camino",
+                    "informacion": "Jesús es El Camino",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://igbn.cubava.cu/files/2021/06/logo.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/08/Tomando_un_nuevo_camino.mp3",
+                    "size": 1.3
                 }
             ]
         },
