@@ -110,8 +110,18 @@
                     "url": "http://igbn.cubava.cu/files/2021/08/Tomando_un_nuevo_camino.mp3",
                     "size": 1.3
                 },
-                {
+				{
                     "id": 11,
+                    "fecha": "15 Agosto 2021",
+                    "titulo": "Cuba necesita una visitacion divina",
+                    "informacion": "Solo Dios puede socorrernos, humillémonos delante de su trono.",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://igbn.cubava.cu/files/2021/06/logo.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/10/Cuba-necesita-una-visitacion-divina.mp3",
+                    "size": 1.0
+                },
+                {
+                    "id": 12,
                     "fecha": "15 Agosto 2021",
                     "titulo": "Cuba necesita una visitacion divina",
                     "informacion": "Solo Dios puede socorrernos, humillémonos delante de su trono.",
@@ -119,6 +129,56 @@
                     "arte": "http://igbn.cubava.cu/files/2021/06/logo.jpg",
                     "url": "http://igbn.cubava.cu/cuba-necesita-una-visitacion-divina",
                     "size": 1.0
+                },
+                {
+                    "id": 13,
+                    "fecha": "29 Agosto 2021",
+                    "titulo": "Fe para un Milagro",
+                    "informacion": "Es necesaria la fe.",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://igbn.cubava.cu/files/2021/06/logo.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/10/Fe-para-un-milagro-lite.mp3",
+                    "size": 1.3
+                },
+                {
+                    "id": 14,
+                    "fecha": "5 Septiembre 2021",
+                    "titulo": "Moisés, un siervo que inspira",
+                    "informacion": "Un hombre manso que habló con el Señor cara a cara.",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://igbn.cubava.cu/files/2021/06/logo.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/10/Moises-un-siervo-que-inspira.mp3",
+                    "size": 1.1
+                },
+                {
+                    "id": 15,
+                    "fecha": "9 Septiembre 2021",
+                    "titulo": "Mantén tu confianza en Dios",
+                    "informacion": "Fe.",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://igbn.cubava.cu/files/2021/06/logo.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/10/Manten-tu-confianza-en-Dios.mp3",
+                    "size": 0.9
+                },
+                {
+                    "id": 16,
+                    "fecha": "10 Octubre 2021",
+                    "titulo": "Un clamor por Cuba",
+                    "informacion": "Hoy más que nunca debemos permanecer en un espíritu de clamor y oración por nuestra Nación.",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://igbn.cubava.cu/files/2021/06/logo.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/10/Un-clamor-por-Cuba-I.mp3",
+                    "size": 1.4
+                },
+                {
+                    "id": 17,
+                    "fecha": "10 Octubre 2021",
+                    "titulo": "Un clamor por Cuba(CONTINUACIÓN)",
+                    "informacion": "Hoy más que nunca debemos permanecer en un espíritu de clamor y oración por nuestra Nación.",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://igbn.cubava.cu/files/2021/06/logo.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/10/Un-clamor-por-Cuba-I.mp3",
+                    "size": 1.3
                 }
             ]
         },
