@@ -1,0 +1,52 @@
+{
+    "aviso": {
+        "tipo": "normal",
+        "mensaje": ""
+    },
+    "emisoras": [
+        {
+            "id": 1,
+            "nombre": "Radio Transmundial",
+            "thumbnail": "",
+            "descripcion": "",
+            "cartelera": "",
+            "url": "http://cancuserver1.ddns.net:8000/rtm",
+            "url_m": "http://cancuserver1.ddns.net:8000/rtmmq",
+            "url_n": "http://cancuserver1.ddns.net:8000/rtmhq",
+            "url_full": "http://cancuserver1.ddns.net:8000/rtmhq"
+        },
+        {
+            "id": 2,
+            "nombre": "BBN_Red de Radiodifusion Biblica",
+            "thumbnail": "",
+            "descripcion": "",
+            "cartelera": "",
+            "url": "http://cancuserver1.ddns.net:8000/avr",
+            "url_m": "http://cancuserver1.ddns.net:8000/avrmq",
+            "url_n": "http://cancuserver1.ddns.net:8000/avrhq",
+            "url_full": "http://cancuserver1.ddns.net:8000/avrhq"
+        },
+        {
+            "id": 3,
+            "nombre": "Radio Moody",
+            "thumbnail": "",
+            "descripcion": "",
+            "cartelera": "",
+            "url": "http://cancuserver1.ddns.net:8000/moodyradio",
+            "url_m": "http://cancuserver1.ddns.net:8000/moodyradiomq",
+            "url_n": "http://cancuserver1.ddns.net:8000/moodyradiohq",
+            "url_full": "http://cancuserver1.ddns.net:8000/moodyradiohq"
+        },
+        {
+            "id": 4,
+            "nombre": "KGBAFM",
+            "thumbnail": "",
+            "descripcion": "",
+            "cartelera": "",
+            "url": "http://cancuserver1.ddns.net:8000/KGBAFM",
+            "url_m": "http://cancuserver1.ddns.net:8000/KGBAFMmq",
+            "url_n": "http://cancuserver1.ddns.net:8000/KGBAFMmq",
+            "url_full": "http://cancuserver1.ddns.net:8000/KGBAFMmq"
+        }
+    ]
+}
