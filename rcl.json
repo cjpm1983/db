@@ -36,6 +36,18 @@
             "url_m": "http://stream.zeno.fm/wam3u6ezafhvv",
             "url_n": "http://stream.zeno.fm/wam3u6ezafhvv",
             "url_full": "http://stream.zeno.fm/wam3u6ezafhvv"
+        },
+        {
+            "id": 4,
+            "nombre": "RTM",
+            "thumbnail": "",
+            "descripcion": "Emisora cristiana , Bonaire.",
+            "cartelera": "",
+            "url": "http://stream.zeno.fm/ubng3mvpdfhvv",
+            "url_m": "http://stream.zeno.fm/ubng3mvpdfhvv",
+            "url_n": "http://stream.zeno.fm/ubng3mvpdfhvv",
+            "url_full": "http://stream.zeno.fm/ubng3mvpdfhvv"
         }
+        
     ]
 }
