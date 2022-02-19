@@ -50,7 +50,7 @@
         },
         {
             "id": 5,
-            "nombre": "Moody",
+            "nombre": "Radio Moody",
             "thumbnail": "",
             "descripcion": "Emisora cristiana US",
             "cartelera": "",
@@ -58,7 +58,7 @@
             "url_m": "http://stream.zeno.fm/brg4rqmcgfhvv",
             "url_n": "http://stream.zeno.fm/brg4rqmcgfhvv",
             "url_full": "http://stream.zeno.fm/brg4rqmcgfhvv"
-        },
+        }
         
         
     ]
