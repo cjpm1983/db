@@ -7,7 +7,7 @@
 	    {
             "id": 1,
             "nombre": "Radio Biblia Abierta",
-            "thumbnail": "",
+            "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/RBA.jpg",
             "descripcion": "La voz oficial de la Biblia Abierta en Cuba.",
             "cartelera": "",
             "url": "http://stream.zeno.fm/fvg58atk5ehvv",
@@ -18,7 +18,7 @@
         {
             "id": 2,
             "nombre": "Radio FE Cuba",
-            "thumbnail": "",
+            "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/RFC.jpg",
             "descripcion": "Emisora cristiana Cubana, Ciego de Avila.",
             "cartelera": "",
             "url": "http://stream.zeno.fm/pmaskhqfzchvv",
@@ -29,7 +29,7 @@
         {
             "id": 3,
             "nombre": "CVC La Voz",
-            "thumbnail": "",
+            "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/cvc.jpg",
             "descripcion": "Emisora cristiana , Fl.",
             "cartelera": "",
             "url": "http://stream.zeno.fm/wam3u6ezafhvv",
@@ -40,7 +40,7 @@
         {
             "id": 4,
             "nombre": "RTM Bonaire 800 AM",
-            "thumbnail": "",
+            "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/rtm.jpg",
             "descripcion": "Emisora cristiana , Bonaire.",
             "cartelera": "",
             "url": "http://stream.zeno.fm/ubng3mvpdfhvv",
@@ -53,7 +53,7 @@
             "nombre": "Radio Moody",
             "thumbnail": "",
             "descripcion": "Emisora cristiana US",
-            "cartelera": "",
+            "cartelera": "http://cancuserver1.ddns.net:90/Ministerio/logos/moody.jpg",
             "url": "http://stream.zeno.fm/brg4rqmcgfhvv",
             "url_m": "http://stream.zeno.fm/brg4rqmcgfhvv",
             "url_n": "http://stream.zeno.fm/brg4rqmcgfhvv",
@@ -62,7 +62,7 @@
         {
             "id": 6,
             "nombre": "Alma Hits Mexico",
-            "thumbnail": "",
+            "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/AlmaH.jpg",
             "descripcion": "Emisora cristiana MX",
             "cartelera": "",
             "url": "http://servidor19.brlogic.com:7828/live",
@@ -73,7 +73,7 @@
         {
             "id": 7,
             "nombre": "KADI FM 99 Hit",
-            "thumbnail": "",
+            "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/KADI.jpg",
             "descripcion": "Emisora cristiana US1",
             "cartelera": "",
             "url": "http://ice6.securenetsystems.net/KADIFM",
@@ -84,7 +84,7 @@
         {
             "id": 8,
             "nombre": "KALS The Light FM",
-            "thumbnail": "",
+            "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/KALS%20The%20Light%20FM.jpg",
             "descripcion": "Emisora cristiana US2",
             "cartelera": "",
             "url": "https://ice23.securenetsystems.net/YNOP?",
@@ -95,7 +95,7 @@
         {
             "id": 9,
             "nombre": "KAWZ CSN",
-            "thumbnail": "",
+            "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/kawz.jpg",
             "descripcion": "Emisora cristiana US3",
             "cartelera": "",
             "url": "http://ice7.securenetsystems.net/CSNAAC",
@@ -106,7 +106,7 @@
         {
             "id": 10,
             "nombre": "KJIL Radio For Your Life",
-            "thumbnail": "",
+            "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/KJIL.jpg",
             "descripcion": "Emisora cristiana US4",
             "cartelera": "",
             "url": "http://ice41.securenetsystems.net/KJILW?",
