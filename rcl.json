@@ -58,7 +58,66 @@
             "url_m": "http://stream.zeno.fm/brg4rqmcgfhvv",
             "url_n": "http://stream.zeno.fm/brg4rqmcgfhvv",
             "url_full": "http://stream.zeno.fm/brg4rqmcgfhvv"
+        },
+        {
+            "id": 6,
+            "nombre": "Alma Hits Mexico",
+            "thumbnail": "",
+            "descripcion": "Emisora cristiana MX",
+            "cartelera": "",
+            "url": "http://servidor19.brlogic.com:7828/live",
+            "url_m": "http://servidor19.brlogic.com:7828/live",
+            "url_n": "http://servidor19.brlogic.com:7828/live",
+            "url_full": "http://servidor19.brlogic.com:7828/live"
+        },
+        {
+            "id": 7,
+            "nombre": "KADI FM 99 Hit",
+            "thumbnail": "",
+            "descripcion": "Emisora cristiana US1",
+            "cartelera": "",
+            "url": "http://ice6.securenetsystems.net/KADIFM",
+            "url_m": "http://ice6.securenetsystems.net/KADIFM",
+            "url_n": "http://ice6.securenetsystems.net/KADIFM",
+            "url_full": "http://ice6.securenetsystems.net/KADIFM"
+        },
+        {
+            "id": 8,
+            "nombre": "KALS The Light FM",
+            "thumbnail": "",
+            "descripcion": "Emisora cristiana US2",
+            "cartelera": "",
+            "url": "https://ice23.securenetsystems.net/YNOP?",
+            "url_m": "https://ice23.securenetsystems.net/YNOP?",
+            "url_n": "https://ice23.securenetsystems.net/YNOP?",
+            "url_full": "https://ice23.securenetsystems.net/YNOP?"
+        },
+        {
+            "id": 9,
+            "nombre": "KAWZ CSN",
+            "thumbnail": "",
+            "descripcion": "Emisora cristiana US3",
+            "cartelera": "",
+            "url": "http://ice7.securenetsystems.net/CSNAAC",
+            "url_m": "http://ice7.securenetsystems.net/CSNAAC",
+            "url_n": "http://ice7.securenetsystems.net/CSNAAC",
+            "url_full": "http://ice7.securenetsystems.net/CSNAAC"
+        },
+        {
+            "id": 10,
+            "nombre": "KJIL Radio For Your Life",
+            "thumbnail": "",
+            "descripcion": "Emisora cristiana US4",
+            "cartelera": "",
+            "url": "http://ice41.securenetsystems.net/KJILW?",
+            "url_m": "http://ice41.securenetsystems.net/KJILW?",
+            "url_n": "http://ice41.securenetsystems.net/KJILW?",
+            "url_full": "http://ice41.securenetsystems.net/KJILW?"
         }
+
+
+
+
         
         
     ]
