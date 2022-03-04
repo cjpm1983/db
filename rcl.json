@@ -17,7 +17,7 @@
         },
         {
             "id": 2,
-            "nombre": "Radio FE",
+            "nombre": "Radio FE Cuba",
             "thumbnail": "",
             "descripcion": "Emisora cristiana Cubana, Ciego de Avila.",
             "cartelera": "",
@@ -28,7 +28,7 @@
         },
         {
             "id": 3,
-            "nombre": "CVC",
+            "nombre": "CVC La Voz",
             "thumbnail": "",
             "descripcion": "Emisora cristiana , Fl.",
             "cartelera": "",
@@ -39,7 +39,7 @@
         },
         {
             "id": 4,
-            "nombre": "RTM",
+            "nombre": "RTM Bonaire 800 AM",
             "thumbnail": "",
             "descripcion": "Emisora cristiana , Bonaire.",
             "cartelera": "",
