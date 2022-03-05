@@ -124,6 +124,17 @@
             "url_m": "http://ic2.christiannetcast.com/kbnr-fm?",
             "url_n": "http://ic2.christiannetcast.com/kbnr-fm?",
             "url_full": "http://ic2.christiannetcast.com/kbnr-fm?"
+        },
+        {
+            "id": 12,
+            "nombre": "Almavision Radio",
+            "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/almavision.jpg",
+            "descripcion": "Emisora cristiana Fl.",
+            "cartelera": "",
+            "url": "http://94.23.30.114:8318/weys",
+            "url_m": "http://94.23.30.114:8318/weys",
+            "url_n": "http://94.23.30.114:8318/weys",
+            "url_full": "http://94.23.30.114:8318/weys"
         }
 
 
