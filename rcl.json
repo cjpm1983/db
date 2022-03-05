@@ -51,9 +51,9 @@
         {
             "id": 5,
             "nombre": "Radio Moody",
-            "thumbnail": "",
+            "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/moody.jpg",
             "descripcion": "Emisora cristiana US",
-            "cartelera": "http://cancuserver1.ddns.net:90/Ministerio/logos/AlmaH.jpg",
+            "cartelera": "",
             "url": "http://stream.zeno.fm/brg4rqmcgfhvv",
             "url_m": "http://stream.zeno.fm/brg4rqmcgfhvv",
             "url_n": "http://stream.zeno.fm/brg4rqmcgfhvv",
