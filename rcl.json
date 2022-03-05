@@ -113,6 +113,17 @@
             "url_m": "http://ice41.securenetsystems.net/KJILW?",
             "url_n": "http://ice41.securenetsystems.net/KJILW?",
             "url_full": "http://ice41.securenetsystems.net/KJILW?"
+        },
+        {
+            "id": 11,
+            "nombre": "KBNR Radio Manantial",
+            "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/kbnr.png",
+            "descripcion": "Emisora cristiana",
+            "cartelera": "",
+            "url": "http://ic2.christiannetcast.com/kbnr-fm?",
+            "url_m": "http://ic2.christiannetcast.com/kbnr-fm?",
+            "url_n": "http://ic2.christiannetcast.com/kbnr-fm?",
+            "url_full": "http://ic2.christiannetcast.com/kbnr-fm?"
         }
 
 
