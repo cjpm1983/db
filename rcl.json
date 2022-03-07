@@ -52,7 +52,7 @@
             "id": 5,
             "nombre": "Radio Moody",
             "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/moody.jpg",
-            "descripcion": "Emisora cristiana US",
+            "descripcion": "Emisora cristiana ",
             "cartelera": "",
             "url": "http://stream.zeno.fm/brg4rqmcgfhvv",
             "url_m": "http://stream.zeno.fm/brg4rqmcgfhvv",
@@ -74,7 +74,7 @@
             "id": 7,
             "nombre": "KADI FM 99 Hit",
             "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/KADI.jpg",
-            "descripcion": "Emisora cristiana US",
+            "descripcion": "Emisora cristiana ",
             "cartelera": "",
             "url": "http://ice6.securenetsystems.net/KADIFM",
             "url_m": "http://ice6.securenetsystems.net/KADIFM",
@@ -85,7 +85,7 @@
             "id": 8,
             "nombre": "KALS The Light FM",
             "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/KALS%20The%20Light%20FM.jpg",
-            "descripcion": "Emisora cristiana US",
+            "descripcion": "Emisora cristiana ",
             "cartelera": "",
             "url": "https://ice23.securenetsystems.net/YNOP?",
             "url_m": "https://ice23.securenetsystems.net/YNOP?",
@@ -96,7 +96,7 @@
             "id": 9,
             "nombre": "KAWZ CSN",
             "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/kawz.jpg",
-            "descripcion": "Emisora cristiana US",
+            "descripcion": "Emisora cristiana ",
             "cartelera": "",
             "url": "http://ice7.securenetsystems.net/CSNAAC",
             "url_m": "http://ice7.securenetsystems.net/CSNAAC",
@@ -107,7 +107,7 @@
             "id": 10,
             "nombre": "KJIL Radio For Your Life",
             "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/KJIL.jpg",
-            "descripcion": "Emisora cristiana US",
+            "descripcion": "Emisora cristiana ",
             "cartelera": "",
             "url": "http://ice41.securenetsystems.net/KJILW?",
             "url_m": "http://ice41.securenetsystems.net/KJILW?",
@@ -157,7 +157,19 @@
             "url_m": "http://stream.zeno.fm/9n38guqd0hhvv",
             "url_n": "http://stream.zeno.fm/9n38guqd0hhvv",
             "url_full": "http://stream.zeno.fm/9n38guqd0hhvv"
+        },
+        {
+            "id": 15,
+            "nombre": "BBN Radio",
+            "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/bbn.jpg",
+            "descripcion": "Emisora cristiana Talk",
+            "cartelera": "",
+            "url": "https://stream2.bbnradio.org:8443/spanish.aac",
+            "url_m": "https://stream2.bbnradio.org:8443/spanish.aac",
+            "url_n": "https://stream2.bbnradio.org:8443/spanish.aac",
+            "url_full": "https://stream2.bbnradio.org:8443/spanish.aac"
         }
+
 
 
 
