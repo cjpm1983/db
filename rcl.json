@@ -179,6 +179,17 @@
             "url_m": "http://stream.zeno.fm/9hw9mpfe0hhvv",
             "url_n": "http://stream.zeno.fm/9hw9mpfe0hhvv",
             "url_full": "http://stream.zeno.fm/9hw9mpfe0hhvv"
+        },
+        {
+            "id": 17,
+            "nombre": "Musica Cristiana Internacional",
+            "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/musicaci.jpg",
+            "descripcion": "Emisora cristiana Fl",
+            "cartelera": "",
+            "url": "http://stream.zeno.fm/5cykcdme0hhvv",
+            "url_m": "http://stream.zeno.fm/5cykcdme0hhvv",
+            "url_n": "http://stream.zeno.fm/5cykcdme0hhvv",
+            "url_full": "http://stream.zeno.fm/5cykcdme0hhvv"
         }
 
 
