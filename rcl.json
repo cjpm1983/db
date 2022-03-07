@@ -168,6 +168,17 @@
             "url_m": "https://stream2.bbnradio.org:8443/spanish.aac",
             "url_n": "https://stream2.bbnradio.org:8443/spanish.aac",
             "url_full": "https://stream2.bbnradio.org:8443/spanish.aac"
+        },
+        {
+            "id": 16,
+            "nombre": "Nueva Vision 360",
+            "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/nuevavision.jpg",
+            "descripcion": "Emisora cristiana",
+            "cartelera": "",
+            "url": "http://stream.zeno.fm/9hw9mpfe0hhvv",
+            "url_m": "http://stream.zeno.fm/9hw9mpfe0hhvv",
+            "url_n": "http://stream.zeno.fm/9hw9mpfe0hhvv",
+            "url_full": "http://stream.zeno.fm/9hw9mpfe0hhvv"
         }
 
 
