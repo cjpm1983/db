@@ -430,13 +430,23 @@
             "capitulos": [
 
                 {
-                    "id": 5,
-                    "fecha": "",
+                    "id": 1,
+                    "fecha": "Marzo del 2022",
                     "titulo": "Seguridad de Salvacion",
                     "informacion": "Mensajes de Fe y Esperanza.",
                     "por": "Pastor Alberto L. Gonzalez",
                     "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/Alberto.jpg",
                     "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/96.-seguridad-de-salvacion.aac",
+                    "size": 1.0
+                },
+                {
+                    "id": 2,
+                    "fecha": "Marzo del 2022",
+                    "titulo": "Amor Para Todos",
+                    "informacion": "Mensajes de Fe y Esperanza.",
+                    "por": "Pastor Alberto L. Gonzalez",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/Alberto.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/95.-amor-para-todos.aac",
                     "size": 1.0
                 }
 
