@@ -431,7 +431,7 @@
 
                 {
                     "id": 1,
-                    "fecha": "Marzo, 2022",
+                    "fecha": "",
                     "titulo": "Seguridad de Salvacion",
                     "informacion": "Mensajes de Fe y Esperanza.",
                     "por": "Pastor Alberto L. Gonzalez",
@@ -440,8 +440,8 @@
                     "size": 1.0
                 },
                 {
-                    "id": 2,
-                    "fecha": "Marzo, 2022",
+                    "id": 3,
+                    "fecha": "",
                     "titulo": "Amor Para Todos",
                     "informacion": "Mensajes de Fe y Esperanza.",
                     "por": "Pastor Alberto L. Gonzalez",
