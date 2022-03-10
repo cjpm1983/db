@@ -415,15 +415,28 @@
                     "size": 2.0
                 },
                 {
-                    "id": 55,
-                    "fecha": "",
-                    "titulo": "Seguridad de Salvacion",
-                    "informacion": "Mensajes de Fe y Esperanza",
-                    "por": "Pastor Alberto Gonzalez",
-                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/Alberto.jpg",
-                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/96.-seguridad-de-salvacion.aac",
-                    "size": 1.0
-                }
+                    "id": 5,
+                    "podcast": "Mensajes de Fe y Esperanza",
+                    "descripcion": "Meditaciones y comentarios con el pastor Alberto Gonzalez",
+                    "arte": "http://manantialdevida.cubava.cu/files/2021/07/logomanantiales.jpg",
+                    "capitulos": [
+                        {
+                            "id": 1,
+                            "fecha": "Marzo 2022",
+                            "titulo": "Seguridad de Salvacion",
+                            "informacion": "Mensajes de Fe y Esperanza",
+                            "por": "Pastor Alberto Gonzalez",
+                            "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/Alberto.jpg",
+                            "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/96.-seguridad-de-salvacion.aac",
+                            "size": 1.0
+                        }  
+                
+                
+                
+                
+                
+                
+                
 				
             ]
         }
