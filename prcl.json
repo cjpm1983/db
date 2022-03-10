@@ -358,72 +358,8 @@
                 }
             ]
         },
-		{
+		{      
             "id": 4,
-            "podcast": "Manantial de Vida",
-            "descripcion": "Meditaciones por el pastor Otoniel Guevara - Iglesia de la Biblia Abierta de Cienfuegos",
-            "arte": "http://manantialdevida.cubava.cu/files/2021/07/logomanantiales.jpg",
-            "capitulos": [
-                {
-                    "id": 1,
-                    "fecha": "",
-                    "titulo": "¿Puedo hacerlo?",
-                    "informacion": "Cómo proceder en situaciones específicas de la vida.",
-                    "por": "Pastor Otoniel Guevara",
-                    "arte": "http://manantialdevida.cubava.cu/files/2021/07/logomanantiales.jpg",
-                    "url": "http://manantialdevida.cubava.cu/files/2021/06/05puedohacerlo.mp3",
-                    "size": 0.9
-                },
-				{
-                    "id": 2,
-                    "fecha": "",
-                    "titulo": "¿Quién soy en Cristo?",
-                    "informacion": "Identidad Cristiana.",
-                    "por": "Pastor Otoniel Guevara",
-                    "arte": "http://manantialdevida.cubava.cu/files/2021/07/logomanantiales.jpg",
-                    "url": "http://manantialdevida.cubava.cu/files/2021/07/04quiensoyencristo.mp3",
-                    "size": 2.0
-                },
-				{
-                    "id": 3,
-                    "fecha": "",
-                    "titulo": "Descanso junto a El",
-                    "informacion": "Confianza en el Señor.",
-                    "por": "Pastor Otoniel Guevara",
-                    "arte": "http://manantialdevida.cubava.cu/files/2021/07/logomanantiales.jpg",
-                    "url": "http://manantialdevida.cubava.cu/files/2021/06/03venydescansa.mp3",
-                    "size": 2.0
-                },
-				{
-                    "id": 54,
-                    "fecha": "",
-                    "titulo": "¿Quién gobierna tu vida?",
-                    "informacion": "¿Los que desea mi corazón es bueno o malo?",
-                    "por": "Pastor Otoniel Guevara",
-                    "arte": "http://manantialdevida.cubava.cu/files/2021/07/logomanantiales.jpg",
-                    "url": "http://manantialdevida.cubava.cu/files/2021/06/02quien-gobiernatuvida.mp3",
-                    "size": 0.9
-                },
-				{
-                    "id": 5,
-                    "fecha": "",
-                    "titulo": "Firmes en la adversidad",
-                    "informacion": "Consejos para enfrentar las tormentas de la vida.",
-                    "por": "Pastor Otoniel Guevara",
-                    "arte": "http://manantialdevida.cubava.cu/files/2021/07/logomanantiales.jpg",
-                    "url": "http://manantialdevida.cubava.cu/files/2021/06/01firmesantelaadversidad.mp3",
-                    "size": 2.0
-                }
-                
-                       
-           
-                
-                
-				
-            ]
-        },
-        {      
-            "id": 5,
             "podcast": "Mensajes de Fe y Esperanza",
             "decripcion": "Meditaciones por el pastor Alberto Gonzalez - La Habana, Cuba",
             "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/Alberto.jpg",
