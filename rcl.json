@@ -5,8 +5,8 @@
     },
     "emisoras": [
         {
-            "id": 1,
-            "nombre": "Transmundial (beta cu)",
+            "id": 19999,
+            "nombre": "RTM Bonaire (beta cu)",
             "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/rtm.jpg",
             "descripcion": "Que Brille 800 AM , Bonaire.",
             "cartelera": "",
