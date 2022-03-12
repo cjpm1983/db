@@ -39,14 +39,14 @@
         },
         {
             "id": 4,
-            "nombre": "RTM Bonaire 800 AM",
+            "nombre": "RTM Bonaire 800 AM  (Con Super ahorro para Cuba)",
             "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/rtm.jpg",
             "descripcion": "Que Brille 800 AM , Bonaire.",
             "cartelera": "",
-            "url": "http://stream.zeno.fm/ubng3mvpdfhvv",
-            "url_m": "http://stream.zeno.fm/ubng3mvpdfhvv",
-            "url_n": "http://stream.zeno.fm/ubng3mvpdfhvv",
-            "url_full": "http://stream.zeno.fm/ubng3mvpdfhvv"
+            "url": "http://cancuserver1.ddns.net:90/lnk/",
+            "url_m": "http://cancuserver1.ddns.net:90/lnk/",
+            "url_n": "http://cancuserver1.ddns.net:90/lnk/",
+            "url_full": "http://cancuserver1.ddns.net:90/lnk/"
         },
         {
             "id": 5,
