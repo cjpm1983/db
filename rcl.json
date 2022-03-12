@@ -6,7 +6,7 @@
     "emisoras": [
         {
             "id": 1,
-            "nombre": "RTM Bonaire (beta cu)",
+            "nombre": "RTM Bonaire(beta cu)",
             "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/rtm.jpg",
             "descripcion": "Que Brille 800 AM , Bonaire.",
             "cartelera": "",
