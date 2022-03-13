@@ -6,7 +6,7 @@
     "emisoras": [
         {
             "id": 1,
-            "nombre": "RTM Bonaire(cu.)",
+            "nombre": "RTM Bonaire (cu.)",
             "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/rtm.jpg",
             "descripcion": "Que Brille 800 AM , Bonaire.",
             "cartelera": "",
@@ -17,7 +17,7 @@
         },
 	    {
             "id": 2,
-            "nombre": "Radio Biblia Abierta(cu.)",
+            "nombre": "Radio Biblia Abierta (cu.)",
             "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/RBA.jpg",
             "descripcion": "La voz oficial de la Biblia Abierta en Cuba",
             "cartelera": "",
@@ -28,7 +28,7 @@
         },
         {
             "id": 3,
-            "nombre": "Radio FE(cu.)",
+            "nombre": "Radio FE (cu.)",
             "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/RFC.jpg",
             "descripcion": "La emisora que marca tendencia, Ciego de Avila.",
             "cartelera": "",
