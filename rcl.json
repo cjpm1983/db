@@ -10,10 +10,10 @@
             "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/rtm.jpg",
             "descripcion": "Que Brille 800 AM , Bonaire.",
             "cartelera": "",
-            "url": "http://cancuserver1.ddns.net:90/lnk/",
-            "url_m": "http://cancuserver1.ddns.net:90/lnk/",
-            "url_n": "http://cancuserver1.ddns.net:90/lnk/",
-            "url_full": "http://cancuserver1.ddns.net:90/lnk/"
+            "url": "http://cancuserver1.ddns.net:90/lnk/rtm-cu-redirector",
+            "url_m": "http://cancuserver1.ddns.net:90/lnk/rtm-cu-redirector",
+            "url_n": "http://cancuserver1.ddns.net:90/lnk/rtm-cu-redirector",
+            "url_full": "http://cancuserver1.ddns.net:90/lnk/rtm-cu-redirector"
         },
 	    {
             "id": 2,
@@ -21,10 +21,10 @@
             "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/RBA.jpg",
             "descripcion": "La voz oficial de la Biblia Abierta en Cuba",
             "cartelera": "",
-            "url": "http://cancuserver1.ddns.net:90/rba-cu-redirector/",
-            "url_m": "http://cancuserver1.ddns.net:90/rba-cu-redirector/",
-            "url_n": "http://cancuserver1.ddns.net:90/rba-cu-redirector/",
-            "url_full": "http://cancuserver1.ddns.net:90/rba-cu-redirector/"
+            "url": "http://cancuserver1.ddns.net:90/lnk/rba-cu-redirector/",
+            "url_m": "http://cancuserver1.ddns.net:90/lnk/rba-cu-redirector/",
+            "url_n": "http://cancuserver1.ddns.net:90/lnk/rba-cu-redirector/",
+            "url_full": "http://cancuserver1.ddns.net:90/lnk/rba-cu-redirector/"
         },
         {
             "id": 3,
@@ -32,10 +32,10 @@
             "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/RFC.jpg",
             "descripcion": "La emisora que marca tendencia, Ciego de Avila.",
             "cartelera": "",
-            "url": "http://cancuserver1.ddns.net:90/rfc-cu-redirector",
-            "url_m": "http://cancuserver1.ddns.net:90/rfc-cu-redirector",
-            "url_n": "http://cancuserver1.ddns.net:90/rfc-cu-redirector",
-            "url_full": "http://cancuserver1.ddns.net:90/rfc-cu-redirector"
+            "url": "http://cancuserver1.ddns.net:90/lnk/rfc-cu-redirector",
+            "url_m": "http://cancuserver1.ddns.net:90/lnk/rfc-cu-redirector",
+            "url_n": "http://cancuserver1.ddns.net:90/lnk/rfc-cu-redirector",
+            "url_full": "http://cancuserver1.ddns.net:90/lnk/rfc-cu-redirector"
         },
         {
             "id": 4,
