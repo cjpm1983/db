@@ -28,14 +28,14 @@
         },
         {
             "id": 3,
-            "nombre": "Radio FE",
+            "nombre": "Radio FE(cu.)",
             "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/RFC.jpg",
             "descripcion": "La emisora que marca tendencia, Ciego de Avila.",
             "cartelera": "",
-            "url": "http://stream.zeno.fm/pmaskhqfzchvv",
-            "url_m": "http://stream.zeno.fm/pmaskhqfzchvv",
-            "url_n": "http://stream.zeno.fm/pmaskhqfzchvv",
-            "url_full": "http://stream.zeno.fm/pmaskhqfzchvv"
+            "url": "http://cancuserver1.ddns.net:90/rfc-cu-redirector",
+            "url_m": "http://cancuserver1.ddns.net:90/rfc-cu-redirector",
+            "url_n": "http://cancuserver1.ddns.net:90/rfc-cu-redirector",
+            "url_full": "http://cancuserver1.ddns.net:90/rfc-cu-redirector"
         },
         {
             "id": 4,
