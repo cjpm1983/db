@@ -5,8 +5,8 @@
     },
     "emisoras": [
         {
-            "id": 10000,
-            "nombre": "RTM Bonaire(cu)",
+            "id": 1,
+            "nombre": "RTM Bonaire(cu.)",
             "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/rtm.jpg",
             "descripcion": "Que Brille 800 AM , Bonaire.",
             "cartelera": "",
@@ -16,8 +16,8 @@
             "url_full": "http://cancuserver1.ddns.net:90/lnk/"
         },
 	    {
-            "id": 20000,
-            "nombre": "Radio Biblia Abierta(cu)",
+            "id": 2,
+            "nombre": "Radio Biblia Abierta(cu.)",
             "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/RBA.jpg",
             "descripcion": "La voz oficial de la Biblia Abierta en Cuba",
             "cartelera": "",
