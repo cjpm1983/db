@@ -8,7 +8,7 @@
             "id": 1,
             "podcast": "Iglesia Buenas Nuevas Encrucijada",
             "descripcion": "Mensajes predicados en Iglesia Buenas Nuevas Encrucijada",
-            "arte": "http://igbn.cubava.cu/files/2021/06/logo.jpg",
+            "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/IGBN/IGBN.jpg",
             "capitulos": [
                 {
                     "id": 1,
@@ -186,7 +186,7 @@
             "id": 2,
             "podcast": "ABCdario del hogar y la familia",
             "descripcion": "30 dias para bendecir el hogar y la familia",
-            "arte": "http://ibalavozdefe.cubava.cu/files/2021/04/amabilidad.jpg",
+            "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/ABCdario/ABCdario.jpg",
             "capitulos": [
                 {
                     "id": 1,
@@ -314,7 +314,7 @@
             "id": 3,
             "podcast": "REFLEXIONES con Felix",
             "descripcion": "Diversas reflexiones de bendición en la voz del hermano Felix",
-            "arte": "http://igbn.cubava.cu/files/2021/06/logofelix.jpg",
+            "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/rconfleix/logofelix.jpg",
             "capitulos": [
                 {
                     "id": 1,
