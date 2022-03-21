@@ -483,7 +483,19 @@
                     "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/nuestrohogar/480-480-max.jpg",
                     "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/nuestrohogar/nuestro-hogar-la-depresion-6.ogg",
                     "size": 2.7
+                },
+                {
+                    "id": 8,
+                    "fecha": "",
+                    "titulo": "La adoracion",
+                    "informacion": "Nuestro Hogar.",
+                    "por": "Pastor Alberto L. Gonzalez",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/nuestrohogar/480-480-max.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/nuestrohogar/programa-adoracion-1-51.ogg",
+                    "size": 3.4
                 }
+                
+
                 
 
             
