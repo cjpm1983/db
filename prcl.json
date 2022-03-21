@@ -499,14 +499,14 @@
         },
         {      
             "id":6,
-            "podcast": "Cadim Studios",
+            "podcast": "Cadim-Studios",
             "descripcion": "Asambleas de Dios",
             "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/asambleas/moises.jpg",
             "capitulos": [
 
                 {
                     "id": 1,
-                    "fecha": "Marzo del 2022",
+                    "fecha": "",
                     "titulo": "Un cambio es lo que necesitamos",
                     "informacion": "Nuestro Hogar.",
                     "por": "Pastor Moises de Prada Esquivel",
