@@ -519,7 +519,7 @@
                 {
                     "id": 1,
                     "fecha": "",
-                    "titulo": "Un cambio es lo que se necesita",
+                    "titulo": "Un  es lo que se necesita",
                     "informacion": "",
                     "por": "Pastor Moises de Prada Esquivel",
                     "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/asambleas/moises.jpg",
@@ -540,7 +540,28 @@
 
                     
                 
-        }                
+        },
+        {      
+            "id":7,
+            "podcast": "Alimento para el Alma",
+            "descripcion": "Alimento para el Alma una produccion de Radio Transmundial",
+            "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/alimento/img.jpg",
+            "capitulos": [
+
+                {
+                    "id": 1,
+                    "fecha": "",
+                    "titulo": "Estacion de Servicios",
+                    "informacion": "",
+                    "por": "TWR",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/alimento/img.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/alimento/Estacion%20de%20servicios.mp3",
+                    "size": 1.1
+                }
+
+                       ]
+        
+        }                  
 
     ]
 }
