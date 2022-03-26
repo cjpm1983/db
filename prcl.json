@@ -357,36 +357,9 @@
                     "size": 0.6
                 }
             ]
-        },
-		{      
-            "id": 4,
-            "podcast": "Mensajes de Fe y Esperanza",
-            "descripcion": "Meditaciones y comentarios con el Pastor Alberto Gonzalez. La Habana. Cuba",
-            "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/Alberto.jpg",
-            "capitulos": [
-
-                {
-                    "id": 1,
-                    "fecha": "",
-                    "titulo": "El afan y la ansiedad",
-                    "informacion": "Mensajes de Fe y Esperanza",
-                    "por": "Pastor Alberto L. Gonzalez",
-                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/Alberto.jpg",
-                    "url": " http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/80.-el-afan-y-la-ansiedad.ogg",
-                    "size": 1.1
-                }
-                
-               
-
-
-
-            ]
-
-                    
-                
-        },
+        },		
         {      
-            "id": 5,
+            "id": 4,
             "podcast": "Nuestro Hogar",
             "descripcion": "Programa para la familia. Pastor Alberto Gonzalez. La Habana. Cuba",
             "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/nuestrohogar/480-480-max.jpg",
@@ -488,7 +461,7 @@
                 
         },
         {      
-            "id":6,
+            "id":5,
             "podcast": "Cadim Studios",
             "descripcion": "Productora de la Iglesia Maranatha. Asambleas de Dios, Cuba",
             "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/asambleas/moises.jpg",
@@ -519,7 +492,7 @@
                 
         },
         {      
-            "id":7,
+            "id":6,
             "podcast": "Alimento para el Alma",
             "descripcion": "Alimento para el Alma una produccion de Radio Transmundial",
             "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/alimento/img.jpg",
