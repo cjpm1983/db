@@ -519,6 +519,16 @@
                     "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/Alberto.jpg",
                     "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/80.-el-afan-y-la-ansiedad.ogg",
                     "size": 1.1
+                },
+                {
+                    "id": 2,
+                    "fecha": "",
+                    "titulo": "Cuidemos a nustros hermanos",
+                    "informacion": "",
+                    "por": "TWR",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/Alberto.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/Cuidemos%20a%20Nuestros%20Hermanos.ogg",
+                    "size": 1.2
                 }
 
             ]
