@@ -444,12 +444,9 @@
                     "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/nuestrohogar/480-480-max.jpg",
                     "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/nuestrohogar/programa-adoracion-1-51.ogg",
                     "size": 3.4
-                }
-                
+                }         
 
-                
-
-            
+                    
 
 
 
@@ -479,13 +476,7 @@
                 }   
         
                 
-
-            
-
-
-
-
-
+      
             ]
 
                     
@@ -520,7 +511,7 @@
             "capitulos": [
 
                 {
-                    "id": 1,
+                    "id": 0,
                     "fecha": "",
                     "titulo": "El afan y la ansiedad.",
                     "informacion": "Mensajes de Fe y Esperanza",
