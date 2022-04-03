@@ -501,9 +501,28 @@
             "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/alimento/img.jpg",
             "capitulos": [
 
-                
                 {
                     "id": 1,
+                    "fecha": "",
+                    "titulo": "Adoracion Correcta",
+                    "informacion": "",
+                    "por": "TWR",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/alimento/img.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/alimento/Adoraci%f3n%20correcta.mp3",
+                    "size": 1.1
+                },
+                {
+                    "id": 2,
+                    "fecha": "",
+                    "titulo": "Ejemplo de humildad",
+                    "informacion": "",
+                    "por": "TWR",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/alimento/img.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/alimento/Ejemplo%20de%20humildad.mp3",
+                    "size": 1.1
+                },
+                {
+                    "id": 3,
                     "fecha": "",
                     "titulo": "Mas que vencedores",
                     "informacion": "",
@@ -513,7 +532,7 @@
                     "size": 1.1
                 },
                 {
-                    "id": 2,
+                    "id": 4,
                     "fecha": "",
                     "titulo": "Estacion de Servicios",
                     "informacion": "",
