@@ -464,19 +464,28 @@
             "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/asambleas/moises.jpg",
             "capitulos": [
 
-                
                 {
                     "id": 1,
+                    "fecha": "",
+                    "titulo": "Justificados Por Dios",
+                    "informacion": "",
+                    "por": "Yosnier Viñals",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/asambleas/moises.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/asambleas/3-Justificados%20por%20Dios.ogg",
+                    "size": 8.0
+                },
+                {
+                    "id": 2,
                     "fecha": "",
                     "titulo": "Un Encuentro con Jesus",
                     "informacion": "",
                     "por": "Pastor Moises de Prada Esquivel",
-                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/asambleas/moises.jpg",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/asambleas/maranatha.jpg",
                     "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/asambleas/2-Un%20encuentro%20con%20jesus.ogg",
                     "size": 8.0
                 },  
                 {
-                    "id": 2,
+                    "id": 3,
                     "fecha": "",
                     "titulo": "Un  es lo que se necesita",
                     "informacion": "",
