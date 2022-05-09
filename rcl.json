@@ -6,14 +6,14 @@
     "emisoras": [
         {
             "id": 1,
-            "nombre": "RTM Bonaire (SERVIDOR CAIDO)",
-            "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/rtm.jpg",
+            "nombre": "RTM Bonaire en Vivo",
+            "thumbnail": "https://transmundial.org/data/FileManager/thumbnails/Files/Spanish%20-%20RTM/Untitled%20(500%20x%20400%20px)%20(2)_1636059067_500x400.png",
             "descripcion": "Que Brille 800 AM , Bonaire.",
             "cartelera": "",
-            "url": "http://cancuserver1.ddns.net:90/lnk/rtm-cu-redirector",
-            "url_m": "http://cancuserver1.ddns.net:90/lnk/rtm-cu-redirector",
-            "url_n": "http://cancuserver1.ddns.net:90/lnk/rtm-cu-redirector",
-            "url_full": "http://cancuserver1.ddns.net:90/lnk/rtm-cu-redirector"
+            "url": "http://stream.zeno.fm/wam3u6ezafhvv",
+            "url_m": "http://stream.zeno.fm/wam3u6ezafhvv",
+            "url_n": "http://stream.zeno.fm/wam3u6ezafhvv",
+            "url_full": "http://stream.zeno.fm/wam3u6ezafhvv"
         },
 	    {
             "id": 2,
