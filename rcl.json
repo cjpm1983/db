@@ -39,17 +39,6 @@
         },
         {
             "id": 4,
-            "nombre": "CVC La Voz",
-            "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/cvc.jpg",
-            "descripcion": "Emisora cristiana , Fl.",
-            "cartelera": "",
-            "url": "http://stream.zeno.fm/wam3u6ezafhvv",
-            "url_m": "http://stream.zeno.fm/wam3u6ezafhvv",
-            "url_n": "http://stream.zeno.fm/wam3u6ezafhvv",
-            "url_full": "http://stream.zeno.fm/wam3u6ezafhvv"
-        },
-        {
-            "id": 5,
             "nombre": "Radio Moody",
             "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/moody.jpg",
             "descripcion": "Emisora cristiana ",
@@ -60,7 +49,7 @@
             "url_full": "http://stream.zeno.fm/brg4rqmcgfhvv"
         },
         {
-            "id": 6,
+            "id": 5,
             "nombre": "Alma Hits Mexico",
             "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/AlmaH.jpg",
             "descripcion": "Emisora cristiana MX",
@@ -71,7 +60,7 @@
             "url_full": "http://servidor19.brlogic.com:7828/live"
         },
         {
-            "id": 7,
+            "id": 6,
             "nombre": "KADI FM 99 Hit",
             "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/KADI.jpg",
             "descripcion": "Emisora cristiana ",
@@ -82,7 +71,7 @@
             "url_full": "http://ice6.securenetsystems.net/KADIFM"
         },
         {
-            "id": 8,
+            "id": 7,
             "nombre": "KALS The Light FM",
             "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/KALS%20The%20Light%20FM.jpg",
             "descripcion": "Emisora cristiana ",
@@ -93,7 +82,7 @@
             "url_full": "https://ice23.securenetsystems.net/YNOP?"
         },
         {
-            "id": 9,
+            "id": 8,
             "nombre": "KAWZ CSN",
             "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/kawz.jpg",
             "descripcion": "Emisora cristiana ",
@@ -104,7 +93,7 @@
             "url_full": "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
-            "id": 10,
+            "id": 9,
             "nombre": "KJIL Radio For Your Life",
             "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/KJIL.jpg",
             "descripcion": "Emisora cristiana ",
@@ -115,7 +104,7 @@
             "url_full": "http://ice41.securenetsystems.net/KJILW?"
         },
         {
-            "id": 11,
+            "id": 10,
             "nombre": "KBNR Radio Manantial",
             "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/kbnr.png",
             "descripcion": "Emisora cristiana",
@@ -126,7 +115,7 @@
             "url_full": "http://ic2.christiannetcast.com/kbnr-fm?"
         },
         {
-            "id": 12,
+            "id": 11,
             "nombre": "Almavision",
             "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/almavision.jpg",
             "descripcion": "Emisora cristiana Fl",
@@ -137,7 +126,7 @@
             "url_full": "http://94.23.30.114:8318/weys"
         },
         {
-            "id": 13,
+            "id": 12,
             "nombre": "Radio Evangelica",
             "thumbnail": "https://img.radios.com.br/radio/lg/radio13129_1458066751.jpg",
             "descripcion": "Emisora cristiana Br",
@@ -148,7 +137,7 @@
             "url_full": "http://stream.zeno.fm/k0f156md0hhvv"
         },
         {
-            "id": 14,
+            "id": 13,
             "nombre": "Vision Cristiana",
             "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/rvc.jpg",
             "descripcion": "Emisora cristiana NY",
@@ -159,7 +148,7 @@
             "url_full": "http://stream.zeno.fm/9n38guqd0hhvv"
         },
         {
-            "id": 15,
+            "id": 14,
             "nombre": "BBN Radio",
             "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/bbn.jpg",
             "descripcion": "Emisora cristiana Talk",
@@ -170,7 +159,7 @@
             "url_full": "https://stream2.bbnradio.org:8443/spanish.aac"
         },
         {
-            "id": 16,
+            "id": 15,
             "nombre": "Nueva Vision 360",
             "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/nuevavision.jpg",
             "descripcion": "Emisora cristiana",
@@ -181,7 +170,7 @@
             "url_full": "http://stream.zeno.fm/9hw9mpfe0hhvv"
         },
         {
-            "id": 17,
+            "id": 16,
             "nombre": "Radio Restauracion",
             "thumbnail": "https://cdn-profiles.tunein.com/s230406/images/logod.jpg",
             "descripcion": "Emisora cristiana Fl",
@@ -192,7 +181,7 @@
             "url_full": "http://stream.zeno.fm/5cykcdme0hhvv"
         },
         {
-            "id": 18,
+            "id": 17,
             "nombre": "Esperanza 1280",
             "thumbnail": "https://cdn-profiles.tunein.com/s29645/images/logod.png",
             "descripcion": "Emisora cristiana Sp",
