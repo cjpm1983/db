@@ -1,0 +1,670 @@
+{
+    "aviso": {
+        "tipo": "normal",
+        "mensaje": ""
+    },
+    "podcasts": [
+        {
+            "id": 1,
+            "podcast": "Iglesia Buenas Nuevas Encrucijada",
+            "descripcion": "Mensajes predicados en Iglesia Buenas Nuevas Encrucijada",
+            "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/IGBN/IGBN.jpg",
+            "capitulos": [
+                {
+                    "id": 1,
+                    "fecha": "",
+                    "titulo": "Los obstáculos de la vida cristiana",
+                    "informacion": "Tema vida cristiana",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/IGBN/IGBN.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/06/los_obstaculos_de_la_vida_cristiana.mp3",
+                    "size": 1.5
+                },
+                {
+                    "id": 2,
+                    "fecha": "",
+                    "titulo": "Vida fructífera",
+                    "informacion": "Tema vida cristiana",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/IGBN/IGBN.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/06/vida_fructifera.mp3",
+                    "size": 1.9
+                },
+                {
+                    "id": 3,
+                    "fecha": "",
+                    "titulo": "No descuides tu viña",
+                    "informacion": "Tema familia",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/IGBN/IGBN.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/06/no_descuides_tu_vinia.mp3",
+                    "size": 1.7
+                },
+                {
+                    "id": 4,
+                    "fecha": "",
+                    "titulo": "No vendas tu herencia",
+                    "informacion": "Mi viña no está en venta",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/IGBN/IGBN.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/06/No_vendas_tu_herencia_mi_vina_no_esta_en_venta.mp3",
+                    "size": 1.7
+                },
+                {
+                    "id": 5,
+                    "fecha": "",
+                    "titulo": "Dios tiene la última Palabra",
+                    "informacion": "Confianza en Dios",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/IGBN/IGBN.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/06/Dios_tiene_la_ultima_palabra.mp3",
+                    "size": 1.9
+                },
+                {
+                    "id": 6,
+                    "fecha": "4 Julio 2021",
+                    "titulo": "Por que atravesamos desiertos",
+                    "informacion": "Las pruebas son una oportunidad para el fortalecimiento del caracter cristiano",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/IGBN/IGBN.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/07/Por_que_atravesamos_desiertos.mp3",
+                    "size": 1.7
+                },
+                {
+                    "id": 7,
+                    "fecha": "18 Julio 2021",
+                    "titulo": "Necesitamos un Encuentro Con Dios",
+                    "informacion": "Dios es todo lo que necesitamos.",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/IGBN/IGBN.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/08/Necesitamos-un-Encuentro-Con-Dios.mp3",
+                    "size": 1.6
+                },
+                {
+                    "id": 8,
+                    "fecha": "25 Julio 2021",
+                    "titulo": "Dios tiene una salida inesperada",
+                    "informacion": "Cuando todo parece perdido, Dios sigue sentado en su trono",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/IGBN/IGBN.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/08/Dios_tiene_una_salida_inesperada.mp3",
+                    "size": 1.6
+                },
+                {
+                    "id": 9,
+                    "fecha": "1 Agosto 2021",
+                    "titulo": "Desanimo, un arma de satanas",
+                    "informacion": "La experiencia del profeta Elias y su restauracion por la misericordia de Dios",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/IGBN/IGBN.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/08/Desanimo_un_arma_de_satanas.mp3",
+                    "size": 1.3
+                },
+                {
+                    "id": 10,
+                    "fecha": "8 Agosto 2021",
+                    "titulo": "Tomando un nuevo camino",
+                    "informacion": "Jesús es El Camino",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/IGBN/IGBN.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/08/Tomando_un_nuevo_camino.mp3",
+                    "size": 1.3
+                },
+				{
+                    "id": 11,
+                    "fecha": "15 Agosto 2021",
+                    "titulo": "Cuba necesita una visitacion divina",
+                    "informacion": "Solo Dios puede socorrernos, humillémonos delante de su trono.",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/IGBN/IGBN.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/10/Cuba-necesita-una-visitacion-divina.mp3",
+                    "size": 1.0
+                },
+                {
+                    "id": 12,
+                    "fecha": "15 Agosto 2021",
+                    "titulo": "Cuba necesita una visitacion divina",
+                    "informacion": "Solo Dios puede socorrernos, humillémonos delante de su trono.",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/IGBN/IGBN.jpg",
+                    "url": "http://igbn.cubava.cu/cuba-necesita-una-visitacion-divina",
+                    "size": 1.0
+                },
+                {
+                    "id": 13,
+                    "fecha": "29 Agosto 2021",
+                    "titulo": "Fe para un Milagro",
+                    "informacion": "Es necesaria la fe.",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/IGBN/IGBN.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/10/Fe-para-un-milagro-lite.mp3",
+                    "size": 1.3
+                },
+                {
+                    "id": 14,
+                    "fecha": "5 Septiembre 2021",
+                    "titulo": "Moisés, un siervo que inspira",
+                    "informacion": "Un hombre manso que habló con el Señor cara a cara.",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/IGBN/IGBN.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/10/Moises-un-siervo-que-inspira.mp3",
+                    "size": 1.1
+                },
+                {
+                    "id": 15,
+                    "fecha": "9 Septiembre 2021",
+                    "titulo": "Mantén tu confianza en Dios",
+                    "informacion": "Fe.",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/IGBN/IGBN.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/10/Manten-tu-confianza-en-Dios.mp3",
+                    "size": 0.9
+                },
+                {
+                    "id": 16,
+                    "fecha": "10 Octubre 2021",
+                    "titulo": "Un clamor por Cuba",
+                    "informacion": "Hoy más que nunca debemos permanecer en un espíritu de clamor y oración por nuestra Nación.",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://igbn.cubava.cu/files/2021/06/logo.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/10/Un-clamor-por-Cuba-I.mp3",
+                    "size": 1.4
+                },
+                {
+                    "id": 17,
+                    "fecha": "10 Octubre 2021",
+                    "titulo": "Un clamor por Cuba(CONTINUACIÓN)",
+                    "informacion": "Hoy más que nunca debemos permanecer en un espíritu de clamor y oración por nuestra Nación.",
+                    "por": "Pastor Jorge F. Exposito",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/IGBN/IGBN.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/10/Un-clamor-por-Cuba-II.mp3",
+                    "size": 1.3
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "podcast": "ABCdario del hogar y la familia",
+            "descripcion": "30 dias para bendecir el hogar y la familia",
+            "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/ABCdario/ABCdario.jpg",
+            "capitulos": [
+                {
+                    "id": 1,
+                    "fecha": "",
+                    "titulo": "Amabilidad",
+                    "informacion": "Un modo de vida, la amabilidad",
+                    "por": "Noriel Morales",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/ABCdario/ABCdario.jpg",
+                    "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Amabilidad.mp3",
+                    "size": 0.6
+                },
+                {
+                    "id": 2,
+                    "fecha": "",
+                    "titulo": "Biblia",
+                    "informacion": "Un fundamento sólido",
+                    "por": "Noriel Morales",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/ABCdario/ABCdario.jpg",
+                    "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Biblia.mp3",
+                    "size": 0.6
+                },
+                {
+                    "id": 3,
+                    "fecha": "",
+                    "titulo": "Confianza",
+                    "informacion": "Depositar tu confianza solo en Dios",
+                    "por": "Noriel Morales",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/ABCdario/ABCdario.jpg",
+                    "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Confianza.mp3",
+                    "size": 0.7
+                },
+                {
+                    "id": 4,
+                    "fecha": "",
+                    "titulo": "Diligencia",
+                    "informacion": "No seamos perezosos",
+                    "por": "Noriel Morales",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/ABCdario/ABCdario.jpg",
+                    "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Diligencia.mp3",
+                    "size": 0.5
+                },
+                {
+                    "id": 5,
+                    "fecha": "",
+                    "titulo": "Excelencia",
+                    "informacion": "Todo sea hecho con amor",
+                    "por": "Noriel Morales",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/ABCdario/ABCdario.jpg",
+                    "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Excelencia.mp3",
+                    "size": 1.8
+                },
+                {
+                    "id": 6,
+                    "fecha": "",
+                    "titulo": "Fidelidad",
+                    "informacion": "Él permanece fiel",
+                    "por": "Noriel Morales",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/ABCdario/ABCdario.jpg",
+                    "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Fidelidad.mp3",
+                    "size": 0.7
+                },
+                {
+                    "id": 7,
+                    "fecha": "",
+                    "titulo": "Generosidad",
+                    "informacion": "Practiquemos la generosidad siempre",
+                    "por": "Noriel Morales",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/ABCdario/ABCdario.jpg",
+                    "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Generosidad.mp3",
+                    "size": 0.7
+                },
+                {
+                    "id": 8,
+                    "fecha": "",
+                    "titulo": "Humildad",
+                    "informacion": "Seamos humildes",
+                    "por": "Noriel Morales",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/ABCdario/ABCdario.jpg",
+                    "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Humildad.mp3",
+                    "size": 0.7
+                },
+                {
+                    "id": 9,
+                    "fecha": "",
+                    "titulo": "Integridad",
+                    "informacion": "Vivamos íntegramente",
+                    "por": "Noriel Morales",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/ABCdario/ABCdario.jpg",
+                    "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Integridad.mp3",
+                    "size": 0.7
+                },
+                {
+                    "id": 10,
+                    "fecha": "",
+                    "titulo": "Jesucristo",
+                    "informacion": "Motivo para vivir: Jesucristo",
+                    "por": "Noriel Morales",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/ABCdario/ABCdario.jpg",
+                    "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Jesucristo.mp3",
+                    "size": 0.7
+                },
+                {
+                    "id": 11,
+                    "fecha": "",
+                    "titulo": "Lealtad",
+                    "informacion": "Leales al Rey de reyes",
+                    "por": "Noriel Morales",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/ABCdario/ABCdario.jpg",
+                    "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Lealtad.mp3",
+                    "size": 1.8
+                },
+                {
+                    "id": 12,
+                    "fecha": "",
+                    "titulo": "Misericordia",
+                    "informacion": "Practiquemos la misericordia",
+                    "por": "Noriel Morales",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/ABCdario/ABCdario.jpg",
+                    "url": "http://ibalavozdefe.cubava.cu/files/2021/06/Misericordia.mp3",
+                    "size": 1.8
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "podcast": "REFLEXIONES con Felix",
+            "descripcion": "Diversas reflexiones de bendición en la voz del hermano Felix",
+            "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/rconfleix/logofelix.jpg",
+            "capitulos": [
+                {
+                    "id": 1,
+                    "fecha": "",
+                    "titulo": "El resultado del gozo del creyente",
+                    "informacion": "",
+                    "por": "Felix Morales",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/rconfleix/logofelix.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/06/el_resultado_del_gozo_del_creyente.mp3",
+                    "size": 1.8
+                },
+                {
+                    "id": 2,
+                    "fecha": "",
+                    "titulo": "Promesas cuando se multiplican las aflixiones",
+                    "informacion": "",
+                    "por": "Felix Morales",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/rconfleix/logofelix.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/06/promesas_cuando_se_multiplican_las_aflicciones.mp3",
+                    "size": 1.0
+                },
+                {
+                    "id": 3,
+                    "fecha": "",
+                    "titulo": "Morir sin salvación",
+                    "informacion": "",
+                    "por": "Felix Morales",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/rconfleix/logofelix.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/06/morir_sin_salvacion.mp3",
+                    "size": 0.5
+                },
+                {
+                    "id": 4,
+                    "fecha": "",
+                    "titulo": "Verdadera Felicidad",
+                    "informacion": "",
+                    "por": "Felix Morales",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/rconfleix/logofelix.jpg",
+                    "url": "http://igbn.cubava.cu/files/2021/06/verdadera_felicidad.mp3",
+                    "size": 0.6
+                }
+            ]
+        },		
+        {      
+            "id": 4,
+            "podcast": "Nuestro Hogar",
+            "descripcion": "Programa para la familia. Pastor Alberto Gonzalez. La Habana. Cuba",
+            "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/nuestrohogar/480-480-max.jpg",
+            "capitulos": [
+
+                {
+                    "id": 1,
+                    "fecha": "",
+                    "titulo": "Cuidado de ancianos",
+                    "informacion": "Nuestro Hogar.",
+                    "por": "Pastor Alberto L. Gonzalez",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/nuestrohogar/480-480-max.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/nuestrohogar/nuestro-hogar-21-cuidado-de-ancianos.ogg",
+                    "size": 2.7
+                },
+                {
+                    "id": 2,
+                    "fecha": "",
+                    "titulo": "La depresion 1",
+                    "informacion": "Nuestro Hogar.",
+                    "por": "Pastor Alberto L. Gonzalez",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/nuestrohogar/480-480-max.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/nuestrohogar/nuestro-hogar-la-depresion-1.ogg",
+                    "size": 2.7
+                },
+                {
+                    "id": 3,
+                    "fecha": "",
+                    "titulo": "La depresion 2",
+                    "informacion": "Nuestro Hogar.",
+                    "por": "Pastor Alberto L. Gonzalez",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/nuestrohogar/480-480-max.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/nuestrohogar/nuestro-hogar-la-depresion-2.ogg",
+                    "size": 2.7
+                },
+                {
+                    "id": 4,
+                    "fecha": "",
+                    "titulo": "La depresion 3",
+                    "informacion": "Nuestro Hogar.",
+                    "por": "Pastor Alberto L. Gonzalez",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/nuestrohogar/480-480-max.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/nuestrohogar/nuestro-hogar-la-depresion-3.ogg",
+                    "size": 2.7
+                },
+                {
+                    "id": 5,
+                    "fecha": "",
+                    "titulo": "La depresion 4",
+                    "informacion": "Nuestro Hogar.",
+                    "por": "Pastor Alberto L. Gonzalez",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/nuestrohogar/480-480-max.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/nuestrohogar/nuestro-hogar-la-depresion-4.ogg",
+                    "size": 2.7
+                },
+                {
+                    "id": 6,
+                    "fecha": "",
+                    "titulo": "La depresion 5",
+                    "informacion": "Nuestro Hogar.",
+                    "por": "Pastor Alberto L. Gonzalez",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/nuestrohogar/480-480-max.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/nuestrohogar/nuestro-hogar-la-depresion-5.ogg",
+                    "size": 2.7
+                },
+                {
+                    "id": 7,
+                    "fecha": "",
+                    "titulo": "La depresion 6",
+                    "informacion": "Nuestro Hogar.",
+                    "por": "Pastor Alberto L. Gonzalez",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/nuestrohogar/480-480-max.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/nuestrohogar/nuestro-hogar-la-depresion-6.ogg",
+                    "size": 2.7
+                },
+                {
+                    "id": 8,
+                    "fecha": "",
+                    "titulo": "La adoracion",
+                    "informacion": "Nuestro Hogar.",
+                    "por": "Pastor Alberto L. Gonzalez",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/nuestrohogar/480-480-max.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/nuestrohogar/programa-adoracion-1-51.ogg",
+                    "size": 3.4
+                }         
+
+                    
+
+
+
+
+
+            ]
+
+                    
+                
+        },
+        {      
+            "id":5,
+            "podcast": "Cadim Studios",
+            "descripcion": "Productora de la Iglesia Maranatha. Asambleas de Dios, Cuba",
+            "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/asambleas/moises.jpg",
+            "capitulos": [
+
+                {
+                    "id": 1,
+                    "fecha": "",
+                    "titulo": "Justificados Por Dios",
+                    "informacion": "",
+                    "por": "Yosnier Viñals",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/asambleas/moises.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/asambleas/3-Justificados%20por%20Dios.ogg",
+                    "size": 8.0
+                },
+                {
+                    "id": 2,
+                    "fecha": "",
+                    "titulo": "Un Encuentro con Jesus",
+                    "informacion": "",
+                    "por": "Pastor Moises de Prada Esquivel",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/asambleas/maranatha.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/asambleas/2-Un%20encuentro%20con%20jesus.ogg",
+                    "size": 8.0
+                },  
+                {
+                    "id": 3,
+                    "fecha": "",
+                    "titulo": "Un  es lo que se necesita",
+                    "informacion": "",
+                    "por": "Pastor Moises de Prada Esquivel",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/asambleas/moises.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/asambleas/1-Un%20cambio%20es%20lo%20que%20se%20necesita.ogg",
+                    "size": 8.5
+                }
+                   
+        
+                
+      
+            ]
+
+                    
+                
+        },
+        {      
+            "id":6,
+            "podcast": "Alimento para el Alma",
+            "descripcion": "Alimento para el Alma una produccion de Radio Transmundial",
+            "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/alimento/img.jpg",
+            "capitulos": [
+
+                {
+                    "id": 1,
+                    "fecha": "",
+                    "titulo": "Adoracion Correcta",
+                    "informacion": "",
+                    "por": "TWR",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/alimento/img.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/alimento/Adoraci%f3n%20correcta.mp3",
+                    "size": 1.1
+                },
+                {
+                    "id": 2,
+                    "fecha": "",
+                    "titulo": "Ejemplo de humildad",
+                    "informacion": "",
+                    "por": "TWR",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/alimento/img.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/alimento/Ejemplo%20de%20humildad.mp3",
+                    "size": 1.1
+                },
+                {
+                    "id": 3,
+                    "fecha": "",
+                    "titulo": "Mas que vencedores",
+                    "informacion": "",
+                    "por": "TWR",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/alimento/img.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/alimento/Mas%20que%20vencedores.mp3",
+                    "size": 1.1
+                },
+                {
+                    "id": 4,
+                    "fecha": "",
+                    "titulo": "Estacion de Servicios",
+                    "informacion": "",
+                    "por": "TWR",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/alimento/img.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/alimento/Estacion%20de%20servicios.mp3",
+                    "size": 1.1
+                }
+
+            ]
+        
+        },
+        {      
+            "id":7,
+            "podcast": "Mensajes de Fe y Esperanza",
+            "descripcion": "Meditaciones y Comentarios con el Pastor Alberto Gonzalez",
+            "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/Alberto.jpg",
+            "capitulos": [
+
+                {
+                    "id": 1,
+                    "fecha": "",
+                    "titulo": "El afan y la ansiedad",
+                    "informacion": "",
+                    "por": "TWR",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/Alberto.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/80.-el-afan-y-la-ansiedad.ogg",
+                    "size": 1.1
+                },
+                {
+                    "id": 2,
+                    "fecha": "",
+                    "titulo": "Cuidemos a nustros hermanos",
+                    "informacion": "",
+                    "por": "TWR",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/Alberto.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/Cuidemos%20a%20Nuestros%20Hermanos.ogg",
+                    "size": 1.2
+
+                },
+                {
+                    "id": 3,
+                    "fecha": "",
+                    "titulo": "Creados a imagen de Dios",
+                    "informacion": "",
+                    "por": "TWR",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/Alberto.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/Creadoa%20a%20Imagen%20de%20Dios.ogg",
+                    "size": 1.2
+
+                },
+                {
+                    "id": 4,
+                    "fecha": "",
+                    "titulo": "El enemigo mayor",
+                    "informacion": "",
+                    "por": "TWR",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/Alberto.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/El%20Enemigo%20Mayor.ogg",
+                    "size": 1.2
+
+                },
+                {
+                    "id": 5,
+                    "fecha": "",
+                    "titulo": "Firmeza necesaria",
+                    "informacion": "",
+                    "por": "TWR",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/Alberto.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/Firmeza%20Necesaria.ogg",
+                    "size": 1.2
+
+                },
+                {
+                    "id": 6,
+                    "fecha": "",
+                    "titulo": "La Fuerza del Poder de Dios",
+                    "informacion": "",
+                    "por": "TWR",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/Alberto.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/La%20Fuerza%20del%20Poder%20de%20Dios.ogg",
+                    "size": 1.2
+
+                },
+                {
+                    "id": 7,
+                    "fecha": "",
+                    "titulo": "Lucha constane",
+                    "informacion": "",
+                    "por": "TWR",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/Alberto.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/Lucha%20Constante.ogg",
+                    "size": 1.2
+
+                },
+                {
+                    "id": 8,
+                    "fecha": "",
+                    "titulo": "Predicando con Denuedo",
+                    "informacion": "",
+                    "por": "TWR",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/Alberto.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/Predicando%20con%20Denuedo.ogg",
+                    "size": 1.2
+
+                },
+                {
+                    "id": 9,
+                    "fecha": "",
+                    "titulo": "Sobrevalorar a Satanas",
+                    "informacion": "",
+                    "por": "TWR",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/Alberto.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/Sobrevalorar%20a%20Satanas.ogg",
+                    "size": 1.2
+
+                }
+                
+
+            ]
+        
+        }
+                   
+
+    ]
+}
