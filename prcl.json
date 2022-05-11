@@ -76,6 +76,30 @@
 
             ]
         
+        },
+        {      
+            "id":3,
+            "podcast": "Alimento para el alma",
+            "descripcion": "Radio Transmundial",
+            "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/alimento/alimento.jpg",
+            "capitulos": [
+
+                {
+                    "id": 1,
+                    "fecha": "",
+                    "titulo": "¿Como Comes?",
+                    "informacion": "",
+                    "por": "TWR",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/alimento/alimento.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/tecito/Un-Estudio-B%c3%adblico-en-10%20minutos-1.mp3",
+                    "size": 1.14
+                }
+                
+                
+                
+
+            ]
+        
         }
                    
 
