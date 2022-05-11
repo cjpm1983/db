@@ -43,6 +43,39 @@
 
             ]
         
+        },
+        {      
+            "id":2,
+            "podcast": "Tecito de Manzanilla",
+            "descripcion": "Con la Doctora Maria Burton",
+            "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/tecito/tecito.jpg",
+            "capitulos": [
+
+                {
+                    "id": 1,
+                    "fecha": "",
+                    "titulo": "Un Estudio Bíblico en 10 minutos 1",
+                    "informacion": "",
+                    "por": "TWR",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/tecito/tecito.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/tecito/Un-Estudio-B%c3%adblico-en-10%20minutos-1.mp3",
+                    "size": 1.83
+                },
+                {
+                    "id": 2,
+                    "fecha": "",
+                    "titulo": "Un Estudio Bíblico en 10 minutos 2",
+                    "informacion": "",
+                    "por": "TWR",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/tecito/tecito.jpg",
+                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/tecito/Un-Estudio-B%c3%adblico-en-10%20minutos-2.mp3",
+                    "size": 1.83
+                }
+                
+                
+
+            ]
+        
         }
                    
 
