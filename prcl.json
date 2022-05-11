@@ -80,7 +80,7 @@
         {      
             "id":3,
             "podcast": "Alimento para el alma",
-            "descripcion": "Radio Transmundial",
+            "descripcion": "RTM",
             "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/alimento/alimento.jpg",
             "capitulos": [
 
@@ -89,7 +89,7 @@
                     "fecha": "",
                     "titulo": "¿Cómo Comes?",
                     "informacion": "",
-                    "por": "TWR",
+                    "por": "RTM",
                     "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/alimento/alimento.jpg",
                     "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/alimento/Como-comes%20.mp3",
                     "size": 1.13
