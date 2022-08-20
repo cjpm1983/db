@@ -46,19 +46,19 @@
         },
         {      
             "id":2,
-            "podcast": "Tecito de Manzanilla",
-            "descripcion": "Con la Doctora Maria Burton",
-            "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/tecito/tecito.jpg",
+            "podcast": "Semilla de fe",
+            "descripcion": "Con Denadres Caballero",
+            "arte": "https://radiofe.cubava.cu/files/2022/08/Deandres-500x500px.png",
             "capitulos": [
 
                 {
                     "id": 1,
                     "fecha": "",
-                    "titulo": "Un Estudio Bíblico en 10 minutos 1",
+                    "titulo": "Episodio 1",
                     "informacion": "",
                     "por": "TWR",
-                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/tecito/tecito.jpg",
-                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/tecito/Un-Estudio-B%c3%adblico-en-10%20minutos-1.mp3",
+                    "arte": "https://radiofe.cubava.cu/files/2022/08/Deandres-500x500px.png",
+                    "url": "https://media.rss.com/semilladefe/20220807_110836_b0f93d2166601d4418ab72b711e0540d.mp3",
                     "size": 1.83
                 },
                 {
