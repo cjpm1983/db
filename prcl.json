@@ -124,6 +124,30 @@
 
             ]
         
+        },
+        {      
+            "id":5,
+            "podcast": "Lampara es a mis pies",
+            "descripcion": "Con Yudiht Rios. https://radiofe.cubava.cu ",
+            "arte": "https://radiofe.cubava.cu/files/2022/08/yudiht-500x500-1.png",
+            "capitulos": [
+
+                {
+                    "id": 1,
+                    "fecha": "",
+                    "titulo": "Top 1ra Semana agosto 2022",
+                    "informacion": "",
+                    "por": "Radio Fe",
+                    "arte": "https://radiofe.cubava.cu/files/2022/08/yudiht-500x500-1.png",
+                    "url": "http://cloudmusic.myftp.org/sound/LEAMPTP/Lampara%20es%20a%20mis%20pies%20tu%20palabra_01.mp3",
+                    "size": 14.0
+                }
+                
+                
+                
+
+            ]
+        
         }
                    
 
