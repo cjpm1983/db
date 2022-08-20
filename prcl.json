@@ -13,20 +13,20 @@
         
         {      
             "id":1,
-            "podcast": "Mensajes de Fe y Esperanza",
-            "descripcion": "Meditaciones y Comentarios con el Pastor Alberto Gonzalez",
-            "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/Alberto.jpg",
+            "podcast": "Alimentando el Espiritu",
+            "descripcion": "Meditaciones con Maria Ether Armentero",
+            "arte": "https://radiofe.cubava.cu/files/2022/08/Alimentando-500x500-1.png",
             "capitulos": [
 
                 {
                     "id": 1,
                     "fecha": "",
-                    "titulo": "Dios te conoce",
+                    "titulo": "Episodio 1",
                     "informacion": "",
-                    "por": "TWR",
-                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/Alberto.jpg",
-                    "url": "http://cancuserver1.ddns.net:90/Ministerio/Podcast/feyesperanza/Diosteconoce.mp3",
-                    "size": 2.4
+                    "por": "Radio Fe",
+                    "arte": "https://radiofe.cubava.cu/files/2022/08/Alimentando-500x500-1.png",
+                    "url": "https://media.rss.com/alimentando-el-espiritu/20220811_110845_53426f644e142404a43ac5f8e0e1e015.mp3",
+                    "size": 4.6
                 },
                 {
                     "id": 2,
