@@ -14,7 +14,7 @@
         {      
             "id":1,
             "podcast": "Alimentando el Espiritu",
-            "descripcion": "Meditaciones con Maria Ether Armentero",
+            "descripcion": "Meditaciones con Maria Ether Armentero. https://radiofe.cubava.cu",
             "arte": "https://radiofe.cubava.cu/files/2022/08/Alimentando-500x500-1.png",
             "capitulos": [
 
@@ -47,7 +47,7 @@
         {      
             "id":2,
             "podcast": "Semilla de fe",
-            "descripcion": "Con Denadres Caballero",
+            "descripcion": "Con Denadres Caballero. https://radiofe.cubava.cu",
             "arte": "https://radiofe.cubava.cu/files/2022/08/Deandres-500x500px.png",
             "capitulos": [
 
@@ -59,7 +59,7 @@
                     "por": "Radio Fe",
                     "arte": "https://radiofe.cubava.cu/files/2022/08/Deandres-500x500px.png",
                     "url": "https://media.rss.com/semilladefe/20220807_110836_b0f93d2166601d4418ab72b711e0540d.mp3",
-                    "size": 1.83
+                    "size": 12.0
                 },
                 {
                     "id": 2,
@@ -69,7 +69,7 @@
                     "por": "Radio Fe",
                     "arte": "https://radiofe.cubava.cu/files/2022/08/Deandres-500x500px.png",
                     "url": "https://media.rss.com/semilladefe/20220807_110836_b0f93d2166601d4418ab72b711e0540d.mp3",
-                    "size": 1.83
+                    "size": 12.0
                 }
                 
                 
