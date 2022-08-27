@@ -4,19 +4,9 @@
         "mensaje": ""
     },
     "emisoras": [
-        {
-            "id": 1,
-            "nombre": "Que Brille 800 AM",
-            "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/rtm.jpg",
-            "descripcion": "Que Brille 800 AM , Bonaire.",
-            "cartelera": "",
-            "url": "http://stream.zeno.fm/wam3u6ezafhvv",
-            "url_m": "http://stream.zeno.fm/wam3u6ezafhvv",
-            "url_n": "http://stream.zeno.fm/wam3u6ezafhvv",
-            "url_full": "http://stream.zeno.fm/wam3u6ezafhvv"
-        },
+        
 	    {
-            "id": 2,
+            "id": 1,
             "nombre": "Radio Biblia Abierta",
             "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/RBA.jpg",
             "descripcion": "La voz oficial de la Biblia Abierta en Cuba",
@@ -27,7 +17,7 @@
             "url_full": "http://stream.zeno.fm/ey1pn6mnffhvv"
         },
         {
-            "id": 3,
+            "id": 2,
             "nombre": "Radio FE",
             "thumbnail": "https://radiofe.cubava.cu/files/2022/08/noticias-500x500-1.png",
             "descripcion": "Llevando aliento de vida, Ciego de Avila.",
@@ -38,7 +28,7 @@
             "url_full": "http://stream.zeno.fm/pmaskhqfzchvv"
         },
         {
-            "id": 5,
+            "id": 3,
             "nombre": "Radio Nueva Vida",
             "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/radiovidanueva.png",
             "descripcion": "Emisora cristiana ",
@@ -49,7 +39,7 @@
             "url_full": "https://node-29.zeno.fm/9n38guqd0hhvv"
         },
         {
-            "id": 6,
+            "id": 4,
             "nombre": "KADI FM 99 Hit",
             "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/KADI.jpg",
             "descripcion": "Emisora cristiana ",
@@ -60,7 +50,7 @@
             "url_full": "http://ice6.securenetsystems.net/KADIFM"
         },
         {
-            "id": 7,
+            "id": 5,
             "nombre": "KALS The Light FM",
             "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/KALS%20The%20Light%20FM.jpg",
             "descripcion": "Emisora cristiana ",
@@ -71,7 +61,7 @@
             "url_full": "https://ice23.securenetsystems.net/YNOP?"
         },
         {
-            "id": 8,
+            "id": 6,
             "nombre": "KAWZ CSN",
             "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/kawz.jpg",
             "descripcion": "Emisora cristiana ",
@@ -82,7 +72,7 @@
             "url_full": "http://ice7.securenetsystems.net/CSNAAC"
         },
         {
-            "id": 9,
+            "id": 7,
             "nombre": "KJIL Radio For Your Life",
             "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/KJIL.jpg",
             "descripcion": "Emisora cristiana ",
@@ -93,7 +83,7 @@
             "url_full": "http://ice41.securenetsystems.net/KJILW?"
         },
         {
-            "id": 10,
+            "id": 8,
             "nombre": "KBNR Radio Manantial",
             "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/kbnr.png",
             "descripcion": "Emisora cristiana",
@@ -104,7 +94,7 @@
             "url_full": "http://ic2.christiannetcast.com/kbnr-fm?"
         },
         {
-            "id": 11,
+            "id": 9,
             "nombre": "Almavision",
             "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/almavision.jpg",
             "descripcion": "Emisora cristiana Fl",
@@ -115,7 +105,7 @@
             "url_full": "http://94.23.30.114:8318/weys"
         },
         {
-            "id": 12,
+            "id": 10,
             "nombre": "Radio Evangelica",
             "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/descarga.jpg",
             "descripcion": "Emisora cristiana Br",
@@ -126,7 +116,7 @@
             "url_full": "http://stream.zeno.fm/k0f156md0hhvv"
         },
         {
-            "id": 13,
+            "id": 11,
             "nombre": "Vision Cristiana Int",
             "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/rvc.jpg",
             "descripcion": "Emisora cristiana NY",
@@ -137,7 +127,7 @@
             "url_full": "http://stream.zeno.fm/9n38guqd0hhv"
         },
         {
-            "id": 14,
+            "id": 12,
             "nombre": "BBN Radio",
             "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/bbn.jpg",
             "descripcion": "Emisora cristiana Talk",
@@ -148,7 +138,7 @@
             "url_full": "https://stream2.bbnradio.org:8443/spanish.aac"
         },
         {
-            "id": 15,
+            "id": 13,
             "nombre": "Nueva Vision 360",
             "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/nuevavision.jpg",
             "descripcion": "Emisora cristiana",
@@ -159,7 +149,7 @@
             "url_full": "http://stream.zeno.fm/9hw9mpfe0hhvv"
         },
         {
-            "id": 16,
+            "id": 14,
             "nombre": "Radio Restauracion",
             "thumbnail": "https://cdn-profiles.tunein.com/s230406/images/logod.jpg",
             "descripcion": "Emisora cristiana Fl",
@@ -170,7 +160,7 @@
             "url_full": "http://stream.zeno.fm/5cykcdme0hhvv"
         },
         {
-            "id": 17,
+            "id": 15,
             "nombre": "Esperanza 1280",
             "thumbnail": "https://cdn-profiles.tunein.com/s29645/images/logod.png",
             "descripcion": "Emisora cristiana Sp",
