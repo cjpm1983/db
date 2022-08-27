@@ -114,20 +114,9 @@
             "url_m": "http://stream.zeno.fm/k0f156md0hhvv",
             "url_n": "http://stream.zeno.fm/k0f156md0hhvv",
             "url_full": "http://stream.zeno.fm/k0f156md0hhvv"
-        },
+        },      
         {
             "id": 11,
-            "nombre": "Vision Cristiana Int",
-            "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/rvc.jpg",
-            "descripcion": "Emisora cristiana NY.US",
-            "cartelera": "",
-            "url": "http://stream.zeno.fm/9n38guqd0hhv",
-            "url_m": "http://stream.zeno.fm/9n38guqd0hhv",
-            "url_n": "http://stream.zeno.fm/9n38guqd0hhv",
-            "url_full": "http://stream.zeno.fm/9n38guqd0hhv"
-        },
-        {
-            "id": 12,
             "nombre": "BBN Radio",
             "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/bbn.jpg",
             "descripcion": "Emisora cristiana Talk",
@@ -138,7 +127,7 @@
             "url_full": "https://stream2.bbnradio.org:8443/spanish.aac"
         },
         {
-            "id": 13,
+            "id": 12,
             "nombre": "Nueva Vision 360",
             "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/nuevavision.jpg",
             "descripcion": "Emisora cristiana",
@@ -149,7 +138,7 @@
             "url_full": "http://stream.zeno.fm/9hw9mpfe0hhvv"
         },
         {
-            "id": 14,
+            "id": 13,
             "nombre": "Radio Restauracion",
             "thumbnail": "https://cdn-profiles.tunein.com/s230406/images/logod.jpg",
             "descripcion": "Emisora cristiana Fl",
@@ -160,7 +149,7 @@
             "url_full": "http://stream.zeno.fm/5cykcdme0hhvv"
         },
         {
-            "id": 15,
+            "id": 14,
             "nombre": "Esperanza 1280",
             "thumbnail": "https://cdn-profiles.tunein.com/s29645/images/logod.png",
             "descripcion": "Emisora cristiana Sp",
