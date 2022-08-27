@@ -7,7 +7,7 @@
         {
             "id": 1,
             "nombre": "Que Brille 800 AM",
-            "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/QB800.png",
+            "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/rtm.jpg",
             "descripcion": "Que Brille 800 AM , Bonaire.",
             "cartelera": "",
             "url": "http://stream.zeno.fm/wam3u6ezafhvv",
@@ -18,7 +18,7 @@
 	    {
             "id": 2,
             "nombre": "Radio Biblia Abierta",
-            "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/RBA.jpg",
+            "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/RBA.jpg",
             "descripcion": "La voz oficial de la Biblia Abierta en Cuba",
             "cartelera": "",
             "url": "http://stream.zeno.fm/ey1pn6mnffhvv",
@@ -40,7 +40,7 @@
         {
             "id": 4,
             "nombre": "Radio Moody",
-            "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/moody.jpg",
+            "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/moody.jpg",
             "descripcion": "Emisora cristiana ",
             "cartelera": "",
             "url": "http://stream.zeno.fm/brg4rqmcgfhvv",
@@ -51,7 +51,7 @@
         {
             "id": 5,
             "nombre": "Radio Nueva Vida",
-            "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/RNV.jpg",
+            "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/radiovidanueva.png",
             "descripcion": "Emisora cristiana ",
             "cartelera": "",
             "url": "https://node-29.zeno.fm/9n38guqd0hhvv",
@@ -62,7 +62,7 @@
         {
             "id": 6,
             "nombre": "KADI FM 99 Hit",
-            "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/KADI.jpg",
+            "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/KADI.jpg",
             "descripcion": "Emisora cristiana ",
             "cartelera": "",
             "url": "http://ice6.securenetsystems.net/KADIFM",
@@ -73,7 +73,7 @@
         {
             "id": 7,
             "nombre": "KALS The Light FM",
-            "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/KALS%20The%20Light%20FM.jpg",
+            "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/KALS%20The%20Light%20FM.jpg",
             "descripcion": "Emisora cristiana ",
             "cartelera": "",
             "url": "https://ice23.securenetsystems.net/YNOP?",
@@ -84,7 +84,7 @@
         {
             "id": 8,
             "nombre": "KAWZ CSN",
-            "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/kawz.jpg",
+            "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/kawz.jpg",
             "descripcion": "Emisora cristiana ",
             "cartelera": "",
             "url": "http://ice7.securenetsystems.net/CSNAAC",
@@ -95,7 +95,7 @@
         {
             "id": 9,
             "nombre": "KJIL Radio For Your Life",
-            "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/KJIL.jpg",
+            "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/KJIL.jpg",
             "descripcion": "Emisora cristiana ",
             "cartelera": "",
             "url": "http://ice41.securenetsystems.net/KJILW?",
@@ -117,7 +117,7 @@
         {
             "id": 11,
             "nombre": "Almavision",
-            "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/almavision.jpg",
+            "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/almavision.jpg",
             "descripcion": "Emisora cristiana Fl",
             "cartelera": "",
             "url": "http://94.23.30.114:8318/weys",
@@ -128,7 +128,7 @@
         {
             "id": 12,
             "nombre": "Radio Evangelica",
-            "thumbnail": "https://img.radios.com.br/radio/lg/radio13129_1458066751.jpg",
+            "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/descarga.jpg",
             "descripcion": "Emisora cristiana Br",
             "cartelera": "",
             "url": "http://stream.zeno.fm/k0f156md0hhvv",
@@ -139,7 +139,7 @@
         {
             "id": 13,
             "nombre": "Vision Cristiana",
-            "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/rvc.jpg",
+            "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/rvc.jpg",
             "descripcion": "Emisora cristiana NY",
             "cartelera": "",
             "url": "http://stream.zeno.fm/9n38guqd0hhv",
@@ -150,7 +150,7 @@
         {
             "id": 14,
             "nombre": "BBN Radio",
-            "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/bbn.jpg",
+            "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/bbn.jpg",
             "descripcion": "Emisora cristiana Talk",
             "cartelera": "",
             "url": "https://stream2.bbnradio.org:8443/spanish.aac",
@@ -161,7 +161,7 @@
         {
             "id": 15,
             "nombre": "Nueva Vision 360",
-            "thumbnail": "http://cancuserver1.ddns.net:90/Ministerio/logos/nuevavision.jpg",
+            "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/nuevavision.jpg",
             "descripcion": "Emisora cristiana",
             "cartelera": "",
             "url": "http://stream.zeno.fm/9hw9mpfe0hhvv",
