@@ -38,17 +38,6 @@
             "url_full": "http://stream.zeno.fm/pmaskhqfzchvv"
         },
         {
-            "id": 4,
-            "nombre": "Radio Moody",
-            "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/moody.jpg",
-            "descripcion": "Emisora cristiana ",
-            "cartelera": "",
-            "url": "http://stream.zeno.fm/brg4rqmcgfhvv",
-            "url_m": "http://stream.zeno.fm/brg4rqmcgfhvv",
-            "url_n": "http://stream.zeno.fm/brg4rqmcgfhvv",
-            "url_full": "http://stream.zeno.fm/brg4rqmcgfhvv"
-        },
-        {
             "id": 5,
             "nombre": "Radio Nueva Vida",
             "thumbnail": "http://radiofecuba.lovestoblog.com/Emisoras/radiovidanueva.png",
