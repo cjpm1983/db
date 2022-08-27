@@ -37,6 +37,16 @@
                     "arte": "https://radiofe.cubava.cu/files/2022/08/Alimentando-500x500-1.png",
                     "url": "http://cloudmusic.myftp.org/sound/AEE/Alientando%20el%20Espiritu_02.mp3",
                     "size": 3.4
+                },
+                {
+                    "id": 3,
+                    "fecha": "",
+                    "titulo": "Episodio 3",
+                    "informacion": "",
+                    "por": "Radio Fe",
+                    "arte": "https://radiofe.cubava.cu/files/2022/08/Alimentando-500x500-1.png",
+                    "url": "http://cloudmusic.myftp.org/sound/AEE/Alientando%20el%20Espiritu_03.mp3",
+                    "size": 3.4
                 }
                 
                 
@@ -70,6 +80,16 @@
                     "arte": "https://radiofe.cubava.cu/files/2022/08/Deandres-500x500px.png",
                     "url": "http://cloudmusic.myftp.org/sound/SDF/Semilla%20de%20Fe_02.mp3",
                     "size": 12.0
+                },
+                {
+                    "id": 3,
+                    "fecha": "",
+                    "titulo": "Episodio 3 La intención de Dios ",
+                    "informacion": "",
+                    "por": "Radio Fe",
+                    "arte": "https://radiofe.cubava.cu/files/2022/08/Deandres-500x500px.png",
+                    "url": "http://cloudmusic.myftp.org/sound/SDF/Semilla%20de%20Fe_03.mp3",
+                    "size": 12.0
                 }
                 
                 
@@ -92,6 +112,16 @@
                     "por": "Radio Fe",
                     "arte": "https://radiofe.cubava.cu/files/2022/08/500x500Peques.png",
                     "url": "http://cloudmusic.myftp.org/sound/PDV/Peques_02.mp3",
+                    "size": 14.3
+                },
+                {
+                    "id": 2,
+                    "fecha": "",
+                    "titulo": "Episodio 2",
+                    "informacion": "",
+                    "por": "Radio Fe",
+                    "arte": "https://radiofe.cubava.cu/files/2022/08/500x500Peques.png",
+                    "url": "http://cloudmusic.myftp.org/sound/PDV/Peques_03.mp3",
                     "size": 14.3
                 }
                 
@@ -137,6 +167,16 @@
                     "arte": "https://radiofe.cubava.cu/files/2022/08/top.png",
                     "url": "http://cloudmusic.myftp.org/sound/Top%20musical%20-03.mp3",
                     "size": 11.0
+                },
+                {
+                    "id": 4,
+                    "fecha": "",
+                    "titulo": "Top 4ta Semana agosto 2022",
+                    "informacion": "",
+                    "por": "Radio Fe",
+                    "arte": "https://radiofe.cubava.cu/files/2022/08/top.png",
+                    "url": "http://cloudmusic.myftp.org/sound/Top%20musical%20-04.mp3",
+                    "size": 11.0
                 }
 
                 
@@ -162,6 +202,16 @@
                     "arte": "https://radiofe.cubava.cu/files/2022/08/yudiht-500x500-1.png",
                     "url": "http://cloudmusic.myftp.org/sound/LEAMPTP/Lampara%20es%20a%20mis%20pies%20tu%20palabra_01.mp3",
                     "size": 14.0
+                },
+                {
+                    "id": 2,
+                    "fecha": "",
+                    "titulo": "Episodio 2",
+                    "informacion": "",
+                    "por": "Radio Fe",
+                    "arte": "https://radiofe.cubava.cu/files/2022/08/yudiht-500x500-1.png",
+                    "url": "http://cloudmusic.myftp.org/sound/LEAMPTP/Lampara%20es%20a%20mis%20pies%20tu%20palabra_02_1.mp3",
+                    "size": 14.0
                 }
                 
                 
@@ -174,7 +224,7 @@
             "id":6,
             "podcast": "Impacto de fe",
             "descripcion": "Programa de testimonios. https://radiofe.cubava.cu ",
-            "arte": "https://radiofe.cubava.cu/files/2022/08/impacto-500x500-1.png",
+            "arte": "https://radiofe.cubava.cu/files/2022/08/mayra.png",
             "capitulos": [
 
                 {
@@ -196,7 +246,18 @@
                     "arte": "https://radiofe.cubava.cu/files/2022/08/impacto-500x500-1.png",
                     "url": "http://cloudmusic.myftp.org/sound/IDF/Impacto%20de%20fe_02.mp3",
                     "size": 15.0
+                },
+                {
+                    "id": 3,
+                    "fecha": "",
+                    "titulo": "Episodio 3",
+                    "informacion": "",
+                    "por": "Radio Fe",
+                    "arte": "https://radiofe.cubava.cu/files/2022/08/mayra.png",
+                    "url": "http://cloudmusic.myftp.org/sound/IDF/Impacto%20de%20fe_03.mp3",
+                    "size": 15.0
                 }
+                
                 
                 
                 
