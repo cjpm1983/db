@@ -47,6 +47,26 @@
                     "arte": "https://radiofe.cubava.cu/files/2022/08/Alimentando-500x500-1.png",
                     "url": "http://cloudmusic.myftp.org/sound/AEE/Alientando%20el%20Espiritu_03.mp3",
                     "size": 3.4
+                },
+                {
+                    "id": 4,
+                    "fecha": "",
+                    "titulo": "Episodio 4",
+                    "informacion": "",
+                    "por": "Radio Fe",
+                    "arte": "https://radiofe.cubava.cu/files/2022/08/Alimentando-500x500-1.png",
+                    "url": "http://cloudmusic.myftp.org/sound/AEE/Alientando%20el%20Espiritu_04.mp3",
+                    "size": 3.4
+                },
+                {
+                    "id": 5,
+                    "fecha": "",
+                    "titulo": "Episodio 5",
+                    "informacion": "",
+                    "por": "Radio Fe",
+                    "arte": "https://radiofe.cubava.cu/files/2022/08/Alimentando-500x500-1.png",
+                    "url": "http://cloudmusic.myftp.org/sound/AEE/Alientando%20el%20Espiritu_05.mp3",
+                    "size": 3.4
                 }
                 
                 
@@ -89,6 +109,36 @@
                     "por": "Radio Fe",
                     "arte": "https://radiofe.cubava.cu/files/2022/08/Deandres-500x500px.png",
                     "url": "http://cloudmusic.myftp.org/sound/SDF/Semilla%20de%20Fe_03.mp3",
+                    "size": 12.0
+                },
+                {
+                    "id": 4,
+                    "fecha": "",
+                    "titulo": "Episodio 4 ",
+                    "informacion": "",
+                    "por": "Radio Fe",
+                    "arte": "https://radiofe.cubava.cu/files/2022/08/Deandres-500x500px.png",
+                    "url": "http://cloudmusic.myftp.org/sound/SDF/Semilla%20de%20Fe_04.mp3",
+                    "size": 12.0
+                },
+                {
+                    "id": 5,
+                    "fecha": "",
+                    "titulo": "Episodio 5 ",
+                    "informacion": "",
+                    "por": "Radio Fe",
+                    "arte": "https://radiofe.cubava.cu/files/2022/08/Deandres-500x500px.png",
+                    "url": "http://cloudmusic.myftp.org/sound/SDF/Semilla%20de%20Fe_05.mp3",
+                    "size": 12.0
+                },
+                {
+                    "id": 6,
+                    "fecha": "",
+                    "titulo": "Episodio 6 ",
+                    "informacion": "",
+                    "por": "Radio Fe",
+                    "arte": "https://radiofe.cubava.cu/files/2022/08/Deandres-500x500px.png",
+                    "url": "http://cloudmusic.myftp.org/sound/SDF/Semilla%20de%20Fe_06.mp3",
                     "size": 12.0
                 }
                 
@@ -212,6 +262,36 @@
                     "arte": "https://radiofe.cubava.cu/files/2022/08/yudiht-500x500-1.png",
                     "url": "http://cloudmusic.myftp.org/sound/LEAMPTP/Lampara%20es%20a%20mis%20pies%20tu%20palabra_02_1.mp3",
                     "size": 14.0
+                },
+                {
+                    "id": 3,
+                    "fecha": "",
+                    "titulo": "Episodio 3",
+                    "informacion": "",
+                    "por": "Radio Fe",
+                    "arte": "https://radiofe.cubava.cu/files/2022/08/yudiht-500x500-1.png",
+                    "url": "http://cloudmusic.myftp.org/sound/LEAMPTP/Lampara%20es%20a%20mis%20pies%20tu%20palabra_03.mp3",
+                    "size": 14.0
+                },
+                {
+                    "id": 4,
+                    "fecha": "",
+                    "titulo": "Episodio 4",
+                    "informacion": "",
+                    "por": "Radio Fe",
+                    "arte": "https://radiofe.cubava.cu/files/2022/08/yudiht-500x500-1.png",
+                    "url": "http://cloudmusic.myftp.org/sound/LEAMPTP/Lampara%20es%20a%20mis%20pies%20tu%20palabra_04.mp3",
+                    "size": 14.0
+                },
+                {
+                    "id": 5,
+                    "fecha": "",
+                    "titulo": "Episodio 5",
+                    "informacion": "",
+                    "por": "Radio Fe",
+                    "arte": "https://radiofe.cubava.cu/files/2022/08/yudiht-500x500-1.png",
+                    "url": "http://cloudmusic.myftp.org/sound/LEAMPTP/Lampara%20es%20a%20mis%20pies%20tu%20palabra_05.mp3",
+                    "size": 14.0
                 }
                 
                 
@@ -256,7 +336,38 @@
                     "arte": "https://radiofe.cubava.cu/files/2022/08/mayra.png",
                     "url": "http://cloudmusic.myftp.org/sound/IDF/Impacto%20de%20fe_03.mp3",
                     "size": 15.0
+                },
+                {
+                    "id": 4,
+                    "fecha": "",
+                    "titulo": "Episodio 4",
+                    "informacion": "",
+                    "por": "Radio Fe",
+                    "arte": "https://radiofe.cubava.cu/files/2022/08/mayra.png",
+                    "url": "http://cloudmusic.myftp.org/sound/IDF/Impacto%20de%20fe_04.mp3",
+                    "size": 15.0
+                },
+                {
+                    "id": 5,
+                    "fecha": "",
+                    "titulo": "Episodio 5",
+                    "informacion": "",
+                    "por": "Radio Fe",
+                    "arte": "https://radiofe.cubava.cu/files/2022/08/mayra.png",
+                    "url": "http://cloudmusic.myftp.org/sound/IDF/Impacto%20de%20fe_05.mp3",
+                    "size": 15.0
+                },
+                {
+                    "id": 6,
+                    "fecha": "",
+                    "titulo": "Episodio 6",
+                    "informacion": "",
+                    "por": "Radio Fe",
+                    "arte": "https://radiofe.cubava.cu/files/2022/08/mayra.png",
+                    "url": "http://cloudmusic.myftp.org/sound/IDF/Impacto%20de%20fe_06.mp3",
+                    "size": 15.0
                 }
+                
                 
                 
                 
