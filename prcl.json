@@ -13,9 +13,9 @@
         
         {      
             "id":1,
-            "podcast": "Void",
-            "descripcion": "Void",
-            "arte": "Void",
+            "podcast": "Podcast Radio Fe",
+            "descripcion": "https://audio.com/radiofecuba",
+            "arte": "https://lnx.cabinas.net/wp-content/uploads/2015/04/mensajes-para-amor-de-mi-vida.jpg",
             "capitulos": [
 
                 {
