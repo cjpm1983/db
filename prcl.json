@@ -21,11 +21,11 @@
                 {
                     "id": 1,
                     "fecha": "",
-                    "titulo": "Temporalmente estamos en audio.com",
-                    "informacion": "",
+                    "titulo": "Temporalmente estamos en:",
+                    "informacion": "https://audio.com/radiofecuba",
                     "por": "https://audio.com/radiofecuba",
                     "arte": "https://lnx.cabinas.net/wp-content/uploads/2015/04/mensajes-para-amor-de-mi-vida.jpg",
-                    "url": "void",
+                    "url": "https://audio.com/radiofecuba",
                     "size": 0.0
                 }
                 
