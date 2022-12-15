@@ -15,7 +15,7 @@
             "id":1,
             "podcast": "RADIO FE CUBA",
             "descripcion": "www.facebook.com/radiofecuba",
-            "arte": "http://http://radiofecuba.myftp.org/Logo%20editado%20RF.png",
+            "arte": "http://cancuserver1.ddns.net:90/Ministerio/logos/RFC.jpg",
             "capitulos": [
 
                 {
@@ -24,7 +24,7 @@
                     "titulo": "Programacion por Datos CU 300 megas",
                     "informacion": "",
                     "por":  "Radio fe Cuba",
-                    "arte": "http://http://radiofecuba.myftp.org/sound/Logo%20editado%20RF.png",
+                    "arte": "http://cancuserver1.ddns.net:90/Ministerio/logos/RFC.jpg",
                     "url":  "http://radiofecuba.myftp.org/sound/PRF.ogg",
                     "size": 38.0
                 }
