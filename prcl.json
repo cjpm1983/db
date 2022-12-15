@@ -14,19 +14,19 @@
         {      
             "id":1,
             "podcast": "Podcast Radio Fe",
-            "descripcion": "https://audio.com/radiofecuba",
-            "arte": "https://lnx.cabinas.net/wp-content/uploads/2015/04/mensajes-para-amor-de-mi-vida.jpg",
+            "descripcion": "Parrilla Radial",
+            "arte": "http://152.206.85.80/sound/Logo%20editado%20RF.png",
             "capitulos": [
 
                 {
                     "id": 1,
-                    "fecha": "",
-                    "titulo": "Temporalmente en:",
-                    "informacion": "https://audio.com/radiofecuba",
-                    "por": "https://audio.com/radiofecuba",
-                    "arte": "https://lnx.cabinas.net/wp-content/uploads/2015/04/mensajes-para-amor-de-mi-vida.jpg",
-                    "url": "https://audio.com/radiofecuba",
-                    "size": 0.0
+                    "fecha": "Diciembre 2022",
+                    "titulo": "Programacion Semanal por Datos .CU",
+                    "informacion": "www.facebook.com/radiofecuba",
+                    "por": "Radio fe Cuba",
+                    "arte": "http://152.206.85.80/sound/Logo%20editado%20RF.png",
+                    "url": "http://152.206.85.80/sound/Parilla%20-Radio%20Fe.ogg",
+                    "size": 38.0
                 }
                 
                 
