@@ -14,7 +14,7 @@
         {      
             "id":1,
             "podcast": "Podcast Radio Fe",
-            "descripcion": "Parrilla Radial",
+            "descripcion": "www.facebook.com/radiofecuba",
             "arte": "http://152.206.85.80/sound/Logo%20editado%20RF.png",
             "capitulos": [
 
@@ -22,10 +22,10 @@
                     "id": 1,
                     "fecha": "",
                     "titulo": "Programacion Semanal por Datos .CU",
-                    "informacion": "www.facebook.com/radiofecuba",
+                    "informacion": "",
                     "por": "Radio fe Cuba",
                     "arte": "http://152.206.85.80/sound/Logo%20editado%20RF.png",
-                    "url": "http://152.206.85.80/sound/Parilla%20-Radio%20Fe.ogg",
+                    "url": "http://152.206.85.80/sound/PRF.ogg",
                     "size": 38.0
                 }
                 
